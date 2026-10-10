@@ -1,0 +1,128 @@
+{
+  "id": "pose04-f00154-v2",
+  "source_frame": 154,
+  "status": "generated",
+  "prompt": "Edit image1 only. This is a transparent Klee animation cel. Keep her entire upper body, hat, face, backpack, clothing design, line style and colors exactly as they are. Correct ONLY the STRAIGHT LEG that currently points DOWN-LEFT: redraw that straight leg so it instead extends diagonally DOWN-RIGHT from the same hip, ending in a boot centered at (932,849) on this image's 1672x941 canvas. The current boot at lower left around (714,849) must disappear entirely. Keep the other bent leg and its raised boot on the right unchanged. Anatomically there are exactly two legs and two boots. Image2 is the source pose reference: only its frontmost back-facing person matters. Original source has one straight leg extending down-right and one raised bent leg, both feet to the right of the hips. This is a local leg drawing correction, not a full design change. Preserve transparent background, original 1672x941 canvas and fixed upper-body coordinates. Do not mirror the whole character, do not add other characters or text.",
+  "references": [
+    {
+      "path": "generated/pose04-f00154-v1.png",
+      "role": "edit_target"
+    },
+    {
+      "path": "analysis/candidates/f00154.png",
+      "role": "frontmost_leg_pose_reference"
+    }
+  ],
+  "output": {
+    "path": "generated/pose04-f00154-v2.png",
+    "role": "generated_candidate",
+    "job": "pose04-f00154-v2",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-f6ad3b46-377b-4892-b1ce-be537ecf4901.png",
+    "size": [
+      1671,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "152c6a9d8133af6f9cc4c83d844d70b2593a60c3ea106240e24b6badb7457531",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      152,
+      188
+    ],
+    [
+      216,
+      252
+    ],
+    [
+      280,
+      316
+    ],
+    [
+      344,
+      380
+    ],
+    [
+      408,
+      444
+    ],
+    [
+      472,
+      508
+    ],
+    [
+      536,
+      572
+    ],
+    [
+      600,
+      636
+    ],
+    [
+      664,
+      700
+    ],
+    [
+      728,
+      764
+    ],
+    [
+      792,
+      828
+    ],
+    [
+      856,
+      892
+    ],
+    [
+      920,
+      956
+    ],
+    [
+      984,
+      1020
+    ],
+    [
+      1048,
+      1084
+    ],
+    [
+      1112,
+      1145
+    ],
+    [
+      2936,
+      2976
+    ],
+    [
+      3000,
+      3040
+    ],
+    [
+      3064,
+      3104
+    ],
+    [
+      3128,
+      3168
+    ],
+    [
+      3192,
+      3232
+    ],
+    [
+      3256,
+      3296
+    ],
+    [
+      3320,
+      3360
+    ],
+    [
+      3384,
+      3424
+    ]
+  ]
+}

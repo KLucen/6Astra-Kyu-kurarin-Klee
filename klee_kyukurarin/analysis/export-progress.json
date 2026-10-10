@@ -1,0 +1,19 @@
+{
+  "stage": "delivered_draft_technical_pass",
+  "version": "ALICE_v4",
+  "changed_frames": [
+    5784,
+    6039
+  ],
+  "alice_frames_total": [
+    5784,
+    6264
+  ],
+  "output": "C:\\Users\\KLucen\\Desktop\\kle\\klee_kyukurarin\\output\\Klee_Kyu-kurarin_ALICE_v4.mp4",
+  "technical_checks": {
+    "alice-v4-technical.json": true,
+    "alice-v4-comparison-technical.json": true,
+    "alice-v4-full-hug-preview-technical.json": true
+  },
+  "artistic_status": "static_review_only_original_speed_pending"
+}

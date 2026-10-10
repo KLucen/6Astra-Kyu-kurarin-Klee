@@ -1,0 +1,32 @@
+{
+  "id": "upside-cry-upright-f05304-v2",
+  "source_frame": 5304,
+  "status": "generated",
+  "prompt": "Make a precise local edge repair to this transparent Klee animation cel. Keep face, expression, eyes, mouth, blonde hair, head placement/scale, hands, arms, body and overall composition unchanged. ONLY repair the witch hat's extreme SCREEN RIGHT brim so it ends in a natural smooth curved tip WITHIN the canvas, leaving at least 80 pixels of empty transparent margin on the right of a 1672-pixel-wide canvas. The current brim is cut off at the right edge; shorten only the far-right brim and its cream lining to show a complete curved ending. Also keep any backpack edge fully within canvas with at least 15 transparent pixels at right. Do not shift or rescale the figure, do not alter other hat ornaments or outfit. Top and bottom crop stay unchanged. Transparent background preserved, no writing or new objects.",
+  "references": [
+    {
+      "path": "generated/upside-cry-upright-f05304-v1.png",
+      "role": "local_right_edge_repair"
+    }
+  ],
+  "output": {
+    "path": "generated/upside-cry-upright-f05304-v2.png",
+    "role": "generated_candidate",
+    "job": "upside-cry-upright-f05304-v2",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-6c53779e-c701-48f8-8567-d0ea99502dd4.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "546298b227fc2021129418b7eb381a57b8e0640688954b3e68cebe1a9b8761ed",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      5304,
+      5560
+    ]
+  ]
+}

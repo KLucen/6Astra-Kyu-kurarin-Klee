@@ -1,0 +1,18 @@
+{
+  "baseline": "C:\\Users\\KLucen\\Desktop\\kle\\klee_kyukurarin\\output\\Klee_Kyu-kurarin_ALICE_v3-silent.mp4",
+  "output": "C:\\Users\\KLucen\\Desktop\\kle\\klee_kyukurarin\\output\\Klee_Kyu-kurarin_ALICE_v4.mp4",
+  "changed_frames": [
+    5784,
+    6039
+  ],
+  "changed_seconds": [
+    197.184,
+    205.877
+  ],
+  "alice_cel": "generated/hug-open-alice-f05784-v1.png",
+  "registration": "analysis/alice-open-cel-registration.json",
+  "outside_interval_video_packets": 6083,
+  "outside_interval_video_payloads_unchanged": true,
+  "elapsed_seconds": 99.4,
+  "artistic_acceptance": "static_review_only"
+}

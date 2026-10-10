@@ -1,0 +1,128 @@
+{
+  "id": "pose07-f00178-v1",
+  "source_frame": 178,
+  "status": "generated",
+  "prompt": "Use case: illustration-story. Create one transparent animation cel replacing ONLY the RIGHTMOST FRONTMOST girl of image1 with young Klee wearing Blossoming Starlight. Image2 is ONLY cropped costume/identity guidance. Do not draw the six people behind. Exact source acting: she bends her torso forward toward screen LEFT, knees bent and BOTH FEET ON THE GROUND beside one another. Head tilted left/down around original source (1000,320); eyes squeezed shut, mouth an awkward open smile, small sweat drops. Screen-left hand droops at the cheek/eye as she rubs the eye, elbow bent out on the left. Screen-right arm drops down and diagonally LEFT, with its open hand resting on the near knee at source (990,760). Shoulders around (1050,450), bent knees around (1110,800), two boots around (1080,1000) and (1170,1000). Important: NO raised foot, NO straight standing posture. The body hunches and skirt folds naturally at hips. Blonde twin tails and elf ears; red pointed witch hat tilted with the lowered head, cream lining and simple bow/clover, dark little cape, white puff sleeves, dark gloves, red skirt with white center and a few cream flower scallops, brown backpack bulging behind the shoulders, brown boots. Use the simple flat-color anime PV drawing language from image1 and the simplified design from image2. Thin hand-drawn brown-grey outline, no rendered lighting, no texture, minimal ornamental detail. Preserve full original canvas positioning and source scale on a 16:9 transparent canvas. One character only, no text or background.",
+  "references": [
+    {
+      "path": "analysis/candidates/f00178.png",
+      "role": "frontmost_crouching_pose"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "cropped_identity"
+    }
+  ],
+  "output": {
+    "path": "generated/pose07-f00178-v1.png",
+    "role": "generated_candidate",
+    "job": "pose07-f00178-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-96b6f794-5ed2-4de3-a766-36d16b66eae4.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "b82527e5bd5005878022e41ce02c223e9937a7a6171059344c0345081775f6e5",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      176,
+      188
+    ],
+    [
+      240,
+      252
+    ],
+    [
+      304,
+      316
+    ],
+    [
+      368,
+      380
+    ],
+    [
+      432,
+      444
+    ],
+    [
+      496,
+      508
+    ],
+    [
+      560,
+      572
+    ],
+    [
+      624,
+      636
+    ],
+    [
+      688,
+      700
+    ],
+    [
+      752,
+      764
+    ],
+    [
+      816,
+      828
+    ],
+    [
+      880,
+      892
+    ],
+    [
+      944,
+      956
+    ],
+    [
+      1008,
+      1020
+    ],
+    [
+      1072,
+      1084
+    ],
+    [
+      1136,
+      1145
+    ],
+    [
+      2960,
+      2976
+    ],
+    [
+      3024,
+      3040
+    ],
+    [
+      3088,
+      3104
+    ],
+    [
+      3152,
+      3168
+    ],
+    [
+      3216,
+      3232
+    ],
+    [
+      3280,
+      3296
+    ],
+    [
+      3344,
+      3360
+    ],
+    [
+      3408,
+      3424
+    ]
+  ]
+}

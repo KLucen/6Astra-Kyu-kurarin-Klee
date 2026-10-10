@@ -1,0 +1,31 @@
+{
+  "id": "upside-cry-upright-f05304-v1",
+  "source_frame": 5304,
+  "status": "generated",
+  "prompt": "Create a transparent Klee replacement animation cel. Image1 is a vertically restored analysis view of an upside-down PV frame and controls the EXACT pose, scale, composition and expression. Draw UPRIGHT as in image1; compositing will apply the same vertical inversion as the original video. Image2 supplies Klee costume and consistent line style only. Large close bust at SCREEN RIGHT, face around (1160,650), head leaning down-left, TWO gloved hands raised to rub at temples/eyes, elbows down and body cropped by bottom edge. Screen-left hand is higher with curled fingers at forehead; screen-right hand curls beside visible eye. Eyes closed with little tears, open mouth with flat pink interior in a small anguished 'ah', NOT a closed or toothy wide smile. Match the exact new hand pose in image1; don't reuse cheek-pressing hands. Klee has pale blonde twin tails, elf ears, compact red witch hat cream lining and clover/bow, dark cape, white puff sleeves, dark gloves. Allow top hat to leave top edge naturally while keeping face source position and scale. Background entirely transparent, no original lyrics. Plain flat opaque colors, thin slightly uneven brown outlines, no rendered lighting or shadows. Only one character, not echoes.",
+  "references": [
+    {
+      "path": "analysis/upside-vertical-review.png",
+      "role": "exact_pose_in_source_vertical_restore"
+    },
+    {
+      "path": "generated/cheeks-closed-f01408-v1.png",
+      "role": "costume_identity_style_only"
+    }
+  ],
+  "output": {
+    "path": "generated/upside-cry-upright-f05304-v1.png",
+    "role": "generated_candidate",
+    "job": "upside-cry-upright-f05304-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-69d9d2db-e3a5-401e-81f3-4a20f35bc2be.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "c32584e4eaa1e37c0f77f5fa9a8db5101ee003f40adcc29328e598a9090dd75f",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "rejected_superseded",
+  "used_intervals": []
+}

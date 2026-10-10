@@ -1,0 +1,31 @@
+{
+  "id": "pose05-f00162-v1",
+  "source_frame": 162,
+  "status": "generated",
+  "prompt": "Use case: illustration-story. Transparent full-canvas animation cel replacing ONLY the FRONTMOST rightmost person in source image1 with young elf Klee in her Blossoming Starlight outfit. Image2 is a cropped costume guide, not a pose. Do not draw any background people. Exact current source pose: face is front view with slightly half-lidded eyes and a small wry open smile. Body leans toward screen left. Screen-left arm bends with a small fist held before the chest at about (865,440); screen-right arm reaches far OUT TO THE RIGHT, roughly horizontally and slightly down, hand at about (1350,450). Do not lower this arm alongside the dress. One leg extends diagonally down-left to a standing boot around (950,985); the other bends backward behind it with a lifted boot around (1080,785). Copy the legs belonging to the frontmost figure; do not borrow the legs of the people behind. Keep head at source (1000,220) and all placement on original 1920x1080 canvas. Klee's blonde short twin tails, pointed elf ears, red eyes, red pointed witch hat with cream lining and bow/clover, dark little cape, white puff sleeves, gloves, red/white dress with simplified cream scalloped hem, brown backpack and boots. Use thin slightly imperfect outline and simple opaque flat color fills of the source PV. Minimize small ornaments. No painted shading, no texture, no glow. Whole one character, 16:9 transparent canvas, no text, no props not held by this figure, no shadow.",
+  "references": [
+    {
+      "path": "analysis/candidates/f00162.png",
+      "role": "frontmost_pose"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "cropped_identity"
+    }
+  ],
+  "output": {
+    "path": "generated/pose05-f00162-v1.png",
+    "role": "generated_candidate",
+    "job": "pose05-f00162-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-13d1feaa-2e01-4983-be7a-8e0055a00c45.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "83fdb54c3e5f4b9f2a167cb958c8cd932f219fdd7f5a7b4a9312e7486187e009",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "rejected_superseded",
+  "used_intervals": []
+}

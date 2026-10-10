@@ -1,0 +1,48 @@
+{
+  "id": "cheeks-mouth-teeth-f01432-v1",
+  "source_frame": 1432,
+  "status": "generated",
+  "prompt": "Precise mouth-only lip-sync edit of this transparent Klee animation cel. Replace the current open pink mouth with a thin horizontal slightly curved singing mouth, about 80 percent of current width and 18 percent of current height, showing a single narrow WHITE band of closed teeth. Brown outline, corners slightly raised. Keep both eyes completely closed. Preserve every other pixel and all face/head, cheeks, hands, body, hat, hair, line art, colors, pose, position and transparent background. Do not add lips, fangs, eye changes or anything else.",
+  "references": [
+    {
+      "path": "generated/cheeks-closed-f01408-v1.png",
+      "role": "stable_cel_mouth_only_edit"
+    }
+  ],
+  "output": {
+    "path": "generated/cheeks-mouth-teeth-f01432-v1.png",
+    "role": "generated_candidate",
+    "job": "cheeks-mouth-teeth-f01432-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-3b0382e2-71c8-4331-9e0b-3f1e9422dd21.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "871fe494dd085495d6681be11779af20a03287c7f00284fdbbbf28b38292f5c9",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      1432,
+      1440
+    ],
+    [
+      1448,
+      1456
+    ],
+    [
+      1493,
+      1496
+    ],
+    [
+      1524,
+      1528
+    ],
+    [
+      3520,
+      3528
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "hug-closed-alice-f06039-v1",
+  "source_frame": 6039,
+  "status": "generated",
+  "baseline": "generated/hug-closed-f06039-v1.png",
+  "scope": "Replace only the back-facing embrace partner in hug_closed, frames [6039,6264); preserve all other scenes.",
+  "prompt": "Edit reference image 1 as a production animation cel on exactly the same transparent 1672-by-941 canvas. ONLY replace the pink monochrome back-facing small Klee-shaped embrace partner on the LEFT with ALICE, Klee's adult mother from Genshin Impact, using reference image 2 for Alice's actual game-design silhouette. Keep the fully colored Klee on the RIGHT pixel-aligned and unchanged: same closed eyes, joyful tiny smile, tears, face, blonde twin tails, red Blossoming Starlight witch hat, dress, backpack, arms and brown-gloved hands. Do not move, resize, crop, redraw, or change Klee's facial features. Alice should be visibly an ADULT woman with a mature slender torso and long flowing pale-blonde hair, shown from behind, bending or kneeling to embrace her child at the EXISTING contact points. Replace the left child's solid floppy cloth witch hat and short pigtails with Alice's distinctive OPEN SKELETAL RING-shaped witch headpiece with a tall feather/hair crest, and her very long split flowing hair with loose braided ends. Use the back view from reference 2 for these shapes and her long robe panels, simplified into the same thin brown hand-drawn lines as reference 1. Alice's head may naturally continue above the existing top crop. Preserve the original LEFT FIGURE'S monochrome pink silhouette treatment: pink hair, pink skin, pink robe, pink skeletal headpiece with darker muted pink/brown outlines, no full-color Alice palette. She must read as Alice through adult proportions, open ring headpiece, long hair and long robe silhouette, not as a second Klee. Alice's arm remains wrapped around Klee's upper back; Klee's original two gloved hands remain in FRONT of Alice's back at their exact original positions. Keep the embrace intimate and tender, maintain original occlusion, do not introduce extra arms/fingers. Preserve canvas registration, original line style, existing simple cel shading and transparent background. No background, no text, no new props, no additional figures. Reference 1 is the only composition and Klee-identity authority. Reference 2 is Alice-design-only, not a style or pose reference.",
+  "references": [
+    {
+      "path": "generated/hug-closed-f06039-v1.png",
+      "role": "edit_target_composition_Klee_pixels_and_original_occlusion"
+    },
+    {
+      "path": "refs/alice-game-model-three-view.jpg",
+      "role": "Alice_game_identity_design_only"
+    }
+  ],
+  "reference_sources": [
+    {
+      "url": "https://news.17173.com/content/12012025/165930969.shtml",
+      "role": "reposted in-game model views used as design reference"
+    },
+    {
+      "url": "https://www.hoyolab.com/article/40132321",
+      "role": "official Alice reveal provenance"
+    }
+  ],
+  "output": {
+    "path": "generated/hug-closed-alice-f06039-v1.png",
+    "role": "generated_candidate",
+    "job": "hug-closed-alice-f06039-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-8b7b52ff-9fa5-44a4-b79e-e538b9a17a74.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "ac8580c277ff609b7ef95af0ee8fe942e02f8cb2bdf4dc92b808d44cae7ed987",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      6039,
+      6264
+    ]
+  ],
+  "registration": "analysis/alice-cel-registration.json"
+}

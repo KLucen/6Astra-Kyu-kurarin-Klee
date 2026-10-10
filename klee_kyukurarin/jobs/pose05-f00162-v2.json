@@ -1,0 +1,124 @@
+{
+  "id": "pose05-f00162-v2",
+  "source_frame": 162,
+  "status": "generated",
+  "prompt": "Edit image1, keeping the same transparent 1672x941 canvas and all upper-body artwork, colors, face, hat, hands, arm positions, skirt and standing leg unchanged. Anatomical correction ONLY: the bent leg accidentally has TWO brown boots next to each other behind the standing shin. Remove the duplicated boot on the LOWER-LEFT side of that pair, around x930,y700. Keep only ONE lifted boot, the rightmost boot around x975,y665, connected naturally to the single bent leg with one cream cuff. Preserve the standing boot at bottom around x790,y880. Final picture must have exactly TWO legs and TWO boots TOTAL: one standing boot at the bottom, one raised boot behind the standing knee. The space where the duplicate boot is removed must be fully transparent. Do not modify anything else. No added objects or background.",
+  "references": [
+    {
+      "path": "generated/pose05-f00162-v1.png",
+      "role": "edit_target"
+    }
+  ],
+  "output": {
+    "path": "generated/pose05-f00162-v2.png",
+    "role": "generated_candidate",
+    "job": "pose05-f00162-v2",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-1d506dfa-11bc-46ca-a622-5ef6a06d11fb.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "96f4b332ef90e49e0c50ece09a44351ae4fb0a40faf2c4d193182214bf5322cd",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      160,
+      188
+    ],
+    [
+      224,
+      252
+    ],
+    [
+      288,
+      316
+    ],
+    [
+      352,
+      380
+    ],
+    [
+      416,
+      444
+    ],
+    [
+      480,
+      508
+    ],
+    [
+      544,
+      572
+    ],
+    [
+      608,
+      636
+    ],
+    [
+      672,
+      700
+    ],
+    [
+      736,
+      764
+    ],
+    [
+      800,
+      828
+    ],
+    [
+      864,
+      892
+    ],
+    [
+      928,
+      956
+    ],
+    [
+      992,
+      1020
+    ],
+    [
+      1056,
+      1084
+    ],
+    [
+      1120,
+      1145
+    ],
+    [
+      2944,
+      2976
+    ],
+    [
+      3008,
+      3040
+    ],
+    [
+      3072,
+      3104
+    ],
+    [
+      3136,
+      3168
+    ],
+    [
+      3200,
+      3232
+    ],
+    [
+      3264,
+      3296
+    ],
+    [
+      3328,
+      3360
+    ],
+    [
+      3392,
+      3424
+    ]
+  ]
+}

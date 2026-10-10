@@ -1,0 +1,17 @@
+{
+  "new_to_original_cel": [
+    [
+      1.1386501749886955,
+      -0.006435827166952286,
+      -129.2923533887231
+    ],
+    [
+      0.006435827166952286,
+      1.1386501749886955,
+      -123.97222392314856
+    ]
+  ],
+  "inliers": 175,
+  "matches": 227,
+  "basis": "unchanged colored Klee detail features in right half"
+}

@@ -1,0 +1,78 @@
+{
+  "video": "C:\\Users\\KLucen\\Desktop\\kle\\klee_kyukurarin\\output\\Klee_Kyu-kurarin_ALICE_v4.mp4",
+  "video_sha256": "9449131336ea697733e672e973dc4bf23348a1e682b837cc415a5b996e05f961",
+  "source": "C:\\Users\\KLucen\\Desktop\\kle\\\u3010\u53ef\u4e0d\u3011Kyu-kurarin\u3010\u3044\u3088\u308f\u3011.mp4",
+  "metadata": "C:\\Users\\KLucen\\Desktop\\kle\\klee_kyukurarin\\analysis\\source_meta.json",
+  "source_interval": [
+    0,
+    6338
+  ],
+  "expected_frames": 6338,
+  "expected_boundary_seconds": 216.0700625,
+  "checks": {
+    "source_identity": true,
+    "one_video_one_audio_stream": true,
+    "decoded_frame_count": true,
+    "all_frame_dimensions": true,
+    "explicit_video_pts": true,
+    "strict_source_frame_pts": true,
+    "strictly_increasing_pts": true,
+    "strict_video_end_boundary": true,
+    "aac_stream_configuration": true,
+    "aac_interval_packet_count": true,
+    "aac_packet_payload_hashes": true,
+    "aac_packet_timestamps_and_durations": true,
+    "aac_origin_nearest_tick_only": true,
+    "aac_priming_side_data": true,
+    "audio_covers_boundary_without_extra_packet": true,
+    "full_video_audio_decode": true,
+    "preview_unchanged_during_verification": true
+  },
+  "artistic_review": "not_performed_by_this_technical_verifier",
+  "limitations": [
+    "AAC packet copying retains whole packets. The final audio packet may extend beyond the exact video boundary by less than one AAC packet.",
+    "A nonzero video cut origin may fall between AAC timestamp ticks. Only its deterministic nearest-tick shift is permitted; the residual is reported, while video PTS remain source-exact.",
+    "The presentation end uses explicit video stream timing. Packet PTS + duration is recorded separately because reordered packet durations need not equal presentation exposures.",
+    "Decode integrity does not verify drawing quality, occlusion, captions, shot identity, or visual continuity."
+  ],
+  "video_timing": {
+    "time_base": "1/16000",
+    "decoded_frames": 6338,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "pts_mismatches": [],
+    "pts_mismatch_count": 0,
+    "stream_end_seconds": 216.0700625,
+    "end_boundary_basis": "stream.start_pts + stream.duration_ts",
+    "packet_end_seconds": 216.0700625,
+    "packet_minus_stream_end_seconds": 0.0,
+    "end_difference_seconds": 0.0
+  },
+  "audio_copy": {
+    "actual_packets": 9307,
+    "expected_packets": 9307,
+    "first_source_packet_index": 0,
+    "preroll_skip_samples": 0,
+    "time_base": "1/44100",
+    "payload_mismatch_indices": [],
+    "source_video_origin_seconds": 0.0,
+    "audio_origin_seconds": 0.0,
+    "audio_origin_quantization_ticks": "0",
+    "audio_origin_quantization_seconds": 0.0,
+    "timing_mismatch_indices": [],
+    "side_data_mismatch_indices": [],
+    "packet_end_seconds": 216.0854648526077,
+    "whole_packet_tail_seconds": 0.01540235260770975,
+    "sample_rate": "44100",
+    "channels": 2
+  },
+  "full_decode": {
+    "exit_code": 0,
+    "frames": 6338,
+    "errors": ""
+  },
+  "container_duration_seconds": 216.085465,
+  "technical_pass": true
+}

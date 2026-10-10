@@ -1,0 +1,128 @@
+{
+  "id": "pose02-f00138-v2",
+  "source_frame": 138,
+  "status": "generated",
+  "prompt": "Use case: illustration-story. Create ONE transparent animation cel, 1920x1080 canvas. Image 1 is the SOURCE POSE: replace ONLY its FRONTMOST person, the girl holding a smartphone. Do NOT draw the girl behind holding toast. Image 2 supplies Klee's official Blossoming Starlight costume and identity ONLY. Match the simple flat hand-drawn PV style of IMAGE 1: thin grey-brown outlines, solid fills, no shading, no texture. Klee has blonde twin tails, elf ears, red eyes, a large red witch hat, dark shoulder cape, white puff sleeves, dark gloves, red dress with a white front skirt panel and simple scalloped flower hem, brown backpack and boots. Pose and spatial constraints based on the 1920x1080 source: head center around (1000,185), shoulders around (1000,320). SCREEN-LEFT hand holds a dark rectangular phone around (845,430); SCREEN-RIGHT hand is spread palm outward near (1070,300). One straight leg runs diagonally DOWN-RIGHT from below the skirt to the STANDING BOOT centered (1065,990). The OTHER leg starts at the LEFT of the skirt, bends across to the right, with its shin approximately HORIZONTAL toward the right and its LIFTED BOOT centered (1240,760). Very important: the standing boot is to the RIGHT of the torso center, do not reuse a pose with the standing boot to the left. Preserve source eye-open, mouth-small-neutral expression. Youthful Klee proportions stylized in the source PV manner. Keep figure at the original source coordinates, leave the rest of the entire widescreen canvas transparent. Only one Klee and her phone, no backdrop, no lettering, no other characters. Hat may naturally extend past the top canvas edge.",
+  "references": [
+    {
+      "path": "analysis/candidates/f00138.png",
+      "role": "frontmost_pose"
+    },
+    {
+      "path": "refs/klee-official-outfit.jpg",
+      "role": "official_identity_only"
+    }
+  ],
+  "output": {
+    "path": "generated/pose02-f00138-v2.png",
+    "role": "generated_candidate",
+    "job": "pose02-f00138-v2",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-d3e3b08a-aa18-4dfe-9182-31b28dfe40ad.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "9f65a948e1e23ca7d2c0615212427351d58390f73c4f37f8fc1b4f1dd63883dd",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      136,
+      188
+    ],
+    [
+      200,
+      252
+    ],
+    [
+      264,
+      316
+    ],
+    [
+      328,
+      380
+    ],
+    [
+      392,
+      444
+    ],
+    [
+      456,
+      508
+    ],
+    [
+      520,
+      572
+    ],
+    [
+      584,
+      636
+    ],
+    [
+      648,
+      700
+    ],
+    [
+      712,
+      764
+    ],
+    [
+      776,
+      828
+    ],
+    [
+      840,
+      892
+    ],
+    [
+      904,
+      956
+    ],
+    [
+      968,
+      1020
+    ],
+    [
+      1032,
+      1084
+    ],
+    [
+      1096,
+      1145
+    ],
+    [
+      2920,
+      2976
+    ],
+    [
+      2984,
+      3040
+    ],
+    [
+      3048,
+      3104
+    ],
+    [
+      3112,
+      3168
+    ],
+    [
+      3176,
+      3232
+    ],
+    [
+      3240,
+      3296
+    ],
+    [
+      3304,
+      3360
+    ],
+    [
+      3368,
+      3424
+    ]
+  ]
+}

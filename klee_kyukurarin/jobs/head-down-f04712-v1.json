@@ -1,0 +1,36 @@
+{
+  "id": "head-down-f04712-v1",
+  "source_frame": 4712,
+  "status": "generated",
+  "prompt": "Transparent animation character cel. Image1 defines EXACT source pose, close-up framing and screen position. Replace the original girl with young Klee in Blossoming Starlight outfit from image2, matching the original PV thin slightly rough brown line drawing and plain flat fills. Extreme side close-up, Klee at LEFT, leaning forward/down, FACE POINTING SCREEN RIGHT and downward, one half-open downcast red eye visible. Ear near (430,220), eye near (805,420), nose tip near (960,635), chin near (640,755) in original1920x1080. Top of head/hat is CUT OFF by top edge; back of hair and shoulder cut off left. Blond bangs hang over eye, pointed elf ear, short blonde twin tail, dark cape and partial white puff shoulder at left/bottom. Compact red witch hat with cream lining and red bow follows bowed head, mostly beyond top/left frame. Same sad quiet expression and minimal mouth as source. No hands in this shot, no extra body, no new pose. Right third fully empty transparent. No background, no writing, no drop shadow. Match source scale and placement, do not center or fit the whole head in frame.",
+  "references": [
+    {
+      "path": "refs/source-f04712.png",
+      "role": "precise_pose_crop_and_eye_direction"
+    },
+    {
+      "path": "generated/bed-sitting-f04544-v1.png",
+      "role": "costume_identity_consistency_only"
+    }
+  ],
+  "output": {
+    "path": "generated/head-down-f04712-v1.png",
+    "role": "generated_candidate",
+    "job": "head-down-f04712-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-59ee6b26-1708-4c63-873d-208a6ea96623.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "0089f1f75a1fdb6295e4408cc9a17369705a4ff790f3e4265d4bd23678180b14",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      4712,
+      4752
+    ]
+  ]
+}

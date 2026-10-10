@@ -1,0 +1,12 @@
+[
+  {
+    "frame": 2980,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3080,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  }
+]

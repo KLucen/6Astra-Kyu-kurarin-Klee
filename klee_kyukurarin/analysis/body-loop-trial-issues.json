@@ -1,0 +1,38 @@
+[
+  {
+    "frame": 144,
+    "pose": 3,
+    "status": "entry_transform_pending_source_pixel_confirmation",
+    "measured_pattern_donor": 128
+  },
+  {
+    "frame": 152,
+    "pose": 4,
+    "status": "entry_transform_pending_source_pixel_confirmation",
+    "measured_pattern_donor": 128
+  },
+  {
+    "frame": 160,
+    "pose": 5,
+    "status": "entry_transform_pending_source_pixel_confirmation",
+    "measured_pattern_donor": 128
+  },
+  {
+    "frame": 168,
+    "pose": 6,
+    "status": "entry_transform_pending_source_pixel_confirmation",
+    "measured_pattern_donor": 128
+  },
+  {
+    "frame": 176,
+    "pose": 7,
+    "status": "entry_transform_pending_source_pixel_confirmation",
+    "measured_pattern_donor": 128
+  },
+  {
+    "frame": 186,
+    "pose": 4,
+    "same_phase_donor": 826,
+    "status": "needs_full_resolution_alias_review"
+  }
+]

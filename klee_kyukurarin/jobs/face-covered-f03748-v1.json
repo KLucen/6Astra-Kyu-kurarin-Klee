@@ -1,0 +1,36 @@
+{
+  "id": "face-covered-f03748-v1",
+  "source_frame": 3748,
+  "status": "generated",
+  "prompt": "Edit image 1, the stable transparent Klee close-up animation cel. Image 2 controls the NEW HAND POSE and expression only. Keep character head placement/scale/tilt, hat, blond hair, elf ears, shoulders, backpack, torso, and outer silhouette of image 1 stable. Bring both dark-gloved hands UP over the two eyes as in image 2. The backs of the two hands face camera; fingers curl at the eyebrows, cover both eyes fully, with the fingertips reaching into the bangs. Screen-left hand covers the screen-left eye and screen-right hand covers the screen-right eye. Two anatomically connected wrists and forearms, preserve Klee white puff sleeves. Mouth becomes a thin strained small grimace, not smiling broadly. Do not keep old cheek-touching hands: exactly two hands total and two arms total. Retain simple thin brown lines and colors of image 1. Transparent background, unchanged 16:9 canvas and cropping, no writing.",
+  "references": [
+    {
+      "path": "generated/cheeks-closed-f01408-v1.png",
+      "role": "stable_character_geometry"
+    },
+    {
+      "path": "refs/source-f03748.png",
+      "role": "new_hands_and_expression"
+    }
+  ],
+  "output": {
+    "path": "generated/face-covered-f03748-v1.png",
+    "role": "generated_candidate",
+    "job": "face-covered-f03748-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-cb71a978-30de-45d1-8e2c-0ad65072ccd0.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "812f2f221b5f5029a811d0adc7c53e8f4439bbd0b7b322e1c37811fc51c72741",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      3736,
+      3984
+    ]
+  ]
+}

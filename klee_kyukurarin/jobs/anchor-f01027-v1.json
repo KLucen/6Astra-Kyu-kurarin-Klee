@@ -1,0 +1,138 @@
+{
+  "id": "anchor-f01027-v1",
+  "source_frame": 1027,
+  "status": "generated",
+  "prompt": "Use case: identity-preserve. 角色替换动画的风格锚帧。编辑图1（1920×1080原PV），将唯一的绿衣女孩完整重绘成原神可莉「琪花星烛」，图2仅决定可莉身份和服装，不采用图2的渲染与动作。必须采用图1原PV的简单薄深灰手绘线稿、扁平纯色色块、非常少的细节、几乎零阴影，不要纸纹、厚涂、渐变、光效。只替换人物，背景保持同一纯粉红，右侧原白色日文不动。原姿势明确：面向观众稍向画面左转，睁大眼睛，画面左侧的手拿白吐司在嘴边；另手自然向下；画面左侧腿向下站立，右侧腿向后弯抬起，书包背在身后。新人物中心、脚底和整体构图对应图1，保持姿势和吐司位置。可莉是幼小精灵女孩，奶金色双短辫、红色眼睛、尖耳；红色尖顶宽檐魔女帽（上端可以自然出画）、奶白帽沿内衬、大红蝴蝶结和简化四叶花饰；深色小披肩、红蝴蝶结、白短泡泡袖、深色手套、红色连衣裙、白色前裙片和简化花瓣裙边、棕色背包及棕色小靴。不要原角色的绿外套、黑短裤、灰绿头发。不要成年化。衣服只画标志性大色块、少量花饰，保持原PV那种朴素手书动画绘稿。输出一张16:9完整画面。",
+  "references": [
+    {
+      "path": "refs/source-f01027.png",
+      "role": "pose_composition_source"
+    },
+    {
+      "path": "refs/klee-official-outfit.jpg",
+      "role": "official_identity_costume_only"
+    }
+  ],
+  "output": "generated/anchor-f01027-v1.png",
+  "original": "C:/Users/KLucen/.codex/generated_images/01a11bf6-c022-7263-a449-3c992ecd9fe7/exec-efba40e6-3e95-4160-9d48-caca96343a47.png",
+  "actual_dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "80a7f54dd57677eb690d79ee241145a692280007de85a744320245964c3f4923",
+  "review": {
+    "status": "selected_draft",
+    "scope": "generated PNG full-frame visual inspection",
+    "findings": [
+      "Character costume and toast pose recognizable",
+      "Generated background and lyrics must not be used; preserve source layers",
+      "Hat extends beyond original head footprint; occlusion requires per-shot review",
+      "Slight shading more elaborate than source; simplify for following cels"
+    ],
+    "not_checked": [
+      "composite",
+      "continuity",
+      "original_speed",
+      "encoded"
+    ]
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      128,
+      188
+    ],
+    [
+      192,
+      252
+    ],
+    [
+      256,
+      316
+    ],
+    [
+      320,
+      380
+    ],
+    [
+      384,
+      444
+    ],
+    [
+      448,
+      508
+    ],
+    [
+      512,
+      572
+    ],
+    [
+      576,
+      636
+    ],
+    [
+      640,
+      700
+    ],
+    [
+      704,
+      764
+    ],
+    [
+      768,
+      828
+    ],
+    [
+      832,
+      892
+    ],
+    [
+      896,
+      956
+    ],
+    [
+      960,
+      1020
+    ],
+    [
+      1024,
+      1084
+    ],
+    [
+      1088,
+      1145
+    ],
+    [
+      2917,
+      2976
+    ],
+    [
+      2981,
+      3040
+    ],
+    [
+      3045,
+      3104
+    ],
+    [
+      3109,
+      3168
+    ],
+    [
+      3173,
+      3232
+    ],
+    [
+      3237,
+      3296
+    ],
+    [
+      3301,
+      3360
+    ],
+    [
+      3365,
+      3424
+    ]
+  ]
+}

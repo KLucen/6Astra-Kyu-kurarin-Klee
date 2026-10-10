@@ -1,0 +1,39 @@
+{
+  "id": "hug-open-alice-f05784-v1",
+  "source_frame": 5784,
+  "status": "generated",
+  "baseline": "generated/hug-closed-alice-f06039-v1.png",
+  "scope": "Fill omitted earlier hug interval [5784,6039). Keep closed-eye Alice hug [6039,6264) and every other scene unchanged.",
+  "prompt": "Precise FACE-EXPRESSION-ONLY edit of reference image 1, a transparent production animation cel of Klee hugging her mother Alice. Preserve the entire pink back-facing ADULT ALICE exactly as reference 1: identical long hair and loose braids, open ring witch headpiece, feather ornaments, adult torso, robes, shoulder, arm, outlines, pink monochrome treatment and positions. Preserve Klee's hat, hair, ears, arms, gloves, dress, backpack, body and exact size/position. Edit ONLY Klee's visible face expression in image 1: replace the closed happy eyes with LARGE WIDE-OPEN RED EYES, circular iris outlines, small dark pupils and visible white eye sclera, slightly raised worried eyebrows; replace the smiling mouth with a tiny trembling wavy anxious mouth. Keep the small tears. Reference image 2 is the exact startled wide-eyed expression target, ONLY use its face/eyebrows/mouth/tears. Do not copy image 2's left partner or its body scale or composition. Match image 2's surprised, overwhelmed emotional beat, not a new generic smile. Keep reference 1's full 1672-by-941 transparent canvas and register every unchanged object in exactly the same place. No scaling, no recentering, no new crop, no new pose, no change to the hug or hands. Flat hand-drawn cel line style and existing colors. No background, text, captions or additional figures.",
+  "references": [
+    {
+      "path": "generated/hug-closed-alice-f06039-v1.png",
+      "role": "edit_target_preserve_Alice_all_geometry_style_and_Klee_body"
+    },
+    {
+      "path": "generated/hug-open-f05784-v1.png",
+      "role": "Klee_face_expression_only_wide_red_eyes_worried_mouth"
+    }
+  ],
+  "output": {
+    "path": "generated/hug-open-alice-f05784-v1.png",
+    "role": "generated_candidate",
+    "job": "hug-open-alice-f05784-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-fb3707a0-a736-4cef-866d-b5b94c8f075d.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "af37f7e1475edd31682ff470775c0f128d7026057a00fff3d2f34bbe557781c4",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      5784,
+      6039
+    ]
+  ],
+  "registration": "analysis/alice-open-cel-registration.json"
+}

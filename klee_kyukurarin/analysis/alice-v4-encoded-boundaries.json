@@ -1,0 +1,30 @@
+{
+  "5783": {
+    "decoded_pixels_same_as_v3": true,
+    "expected_to_change": false
+  },
+  "5784": {
+    "decoded_pixels_same_as_v3": false,
+    "expected_to_change": true
+  },
+  "5900": {
+    "decoded_pixels_same_as_v3": false,
+    "expected_to_change": true
+  },
+  "6038": {
+    "decoded_pixels_same_as_v3": false,
+    "expected_to_change": true
+  },
+  "6039": {
+    "decoded_pixels_same_as_v3": true,
+    "expected_to_change": false
+  },
+  "6263": {
+    "decoded_pixels_same_as_v3": true,
+    "expected_to_change": false
+  },
+  "6264": {
+    "decoded_pixels_same_as_v3": true,
+    "expected_to_change": false
+  }
+}

@@ -1,0 +1,6 @@
+* -text
+*.png binary
+*.jpg binary
+*.mp4 binary
+*.npy binary
+*.npz binary

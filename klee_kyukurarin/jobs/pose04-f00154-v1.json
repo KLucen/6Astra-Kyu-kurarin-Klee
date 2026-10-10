@@ -1,0 +1,31 @@
+{
+  "id": "pose04-f00154-v1",
+  "source_frame": 154,
+  "status": "generated",
+  "prompt": "Use case: illustration-story. One transparent full-frame animation cel. Image1 is the SOURCE, image2 is ONLY costume identity. Replace ONLY the FRONTMOST rightmost girl in image1 with Klee Blossoming Starlight. Do not draw any of the three people behind her. The current pose is a three-quarter BACK VIEW turning to SCREEN LEFT: left-facing visible face in profile around (905,215), head center (965,185), body twisted away from viewer, large backpack visible on SCREEN RIGHT around (1120,410). Both elbows bent, near hand at (940,470) by waist, other hand at (895,350) near chest. One leg stretches diagonally DOWN-RIGHT to boot around (1070,975); the other leg bends sharply backward to the right with a horizontal shin and raised boot around (1225,740). Copy the actual source silhouette and joint layout, not previous poses. Klee's red witch hat with cream inside and large bow/flower is shown from the side/back; blonde twin tails, elf ear, red eye in profile, black shoulder cape, white puff sleeves, dark gloves, red dress with cream flower scallops and white front skirt panel only as visible from this angle, brown backpack with a tiny cream clover and brown boots. Use the simplified flat color and thin hand-drawn outlines of image1. No gradient, shadows or texture. Image2's cropped outfit is a STYLE/IDENTITY reference only, do not copy its camera or front view. Maintain source canvas placement 1920x1080, allowing the witch hat top to leave the upper edge naturally. Transparent background, no lettering, no other figures, one young Klee only.",
+  "references": [
+    {
+      "path": "analysis/candidates/f00154.png",
+      "role": "frontmost_back_view_pose"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "cropped_identity"
+    }
+  ],
+  "output": {
+    "path": "generated/pose04-f00154-v1.png",
+    "role": "generated_candidate",
+    "job": "pose04-f00154-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-c2cc0c73-45a3-45d8-8bf8-4801420cc84b.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "6f070884e057ba9adccfc35fa86eba5abbece8f59aad5c1ec85f578a599e396f",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "rejected_superseded",
+  "used_intervals": []
+}

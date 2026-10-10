@@ -1,0 +1,64 @@
+{
+  "id": "cheeks-closed-f01408-v1",
+  "source_frame": 1408,
+  "status": "generated",
+  "prompt": "Use case: illustration-story. Transparent PV animation character cel, 16:9 original 1920x1080 composition. Image1 controls EXACT pose, expression, crop, face size and placement. Image2 only supplies simplified Klee Blossoming Starlight costume identity. Replace the single source girl with young Klee: blonde twin tails, pointed elf ears, red witch hat with cream lining and simple bow/clover decoration, dark shoulder cape, white puff sleeves and dark gloves, brown backpack on the right. Very close bust shot: top of hat/hair is cropped by TOP frame, torso and both elbows leave BOTTOM frame. Head tilts slightly SCREEN LEFT and downward, eyes gently FULLY CLOSED, open mouth with a flat pink interior in the same quiet 'ah' expression as source. BOTH hands press into the cheeks, fingers along the sides of face; wrists around source (740,610) and (1000,580). Do not change to a waving hand or a single hand. Face around (860,405), cheeks around (800,510) and (1010,485); match source head scale, not full-body framing. No legs. Two gloved hands stay connected to two raised forearms and white puff-sleeved shoulders. Render in the source PV's simple thin, slightly imperfect brown-grey outlines and plain flat colors; do not add lighting, texture or complicated decoration. Preserve generous transparent space on the right for original lyrics. Only ONE close-up character on transparent canvas, no writing, background, frame or drop shadow.",
+  "references": [
+    {
+      "path": "refs/source-f01408.png",
+      "role": "closed_eyes_cheeks_pose"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "identity_only"
+    }
+  ],
+  "output": {
+    "path": "generated/cheeks-closed-f01408-v1.png",
+    "role": "generated_candidate",
+    "job": "cheeks-closed-f01408-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-46c2cd95-03d6-4980-92de-6e1d17cf149e.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "fcef466fb02746a8cb97cc2146d823e2a77ce5b3bc4757d55b15ba680aa901c5",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      1408,
+      1432
+    ],
+    [
+      1440,
+      1448
+    ],
+    [
+      1456,
+      1464
+    ],
+    [
+      1472,
+      1488
+    ],
+    [
+      1512,
+      1524
+    ],
+    [
+      1528,
+      1536
+    ],
+    [
+      3488,
+      3520
+    ],
+    [
+      3528,
+      3544
+    ]
+  ]
+}

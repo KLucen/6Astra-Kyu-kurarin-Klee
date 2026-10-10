@@ -1,0 +1,40 @@
+{
+  "id": "cheeks-mouth-o-f01504-v1",
+  "source_frame": 1504,
+  "status": "generated",
+  "prompt": "Edit ONLY the mouth of this transparent Klee animation cel. Change her wide open pink mouth into a SMALL ROUND 'o' singing mouth, an upright rounded oval about 40 percent of the current mouth width and 70 percent of current mouth height, flat pink interior with a tiny white upper teeth crescent. Keep eyes fully closed. Retain EXACTLY the same face, eye lines, head tilt, hair, hat, hands, forearms, outfit, colors, position, size and transparent canvas. Do not redraw any other part, do not open her eyes. This is one precise lip-sync replacement cel, not a new pose.",
+  "references": [
+    {
+      "path": "generated/cheeks-closed-f01408-v1.png",
+      "role": "stable_cel_mouth_only_edit"
+    }
+  ],
+  "output": {
+    "path": "generated/cheeks-mouth-o-f01504-v1.png",
+    "role": "generated_candidate",
+    "job": "cheeks-mouth-o-f01504-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-a5e85637-b0ad-4429-a2aa-03787b777d4f.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "9d50fe817499670233e5500e0fe94f567c45715fa7b2522d10f8ffaf32a8e6eb",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      1464,
+      1472
+    ],
+    [
+      1488,
+      1493
+    ],
+    [
+      1504,
+      1512
+    ]
+  ]
+}

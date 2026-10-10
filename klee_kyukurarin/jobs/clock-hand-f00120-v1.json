@@ -1,0 +1,64 @@
+{
+  "id": "clock-hand-f00120-v1",
+  "source_frame": 120,
+  "status": "generated",
+  "prompt": "Transparent animation cel containing ONLY Klee's single hand and attached forearm in the exact position and pose of original image1. Image2 supplies Blossoming Starlight glove and puff sleeve identity only. Original 16:9 framing, 1920x1080: fingers reach diagonally upper-left to press an alarm clock, back of hand facing viewer; upper fingertips at x610..820 y350..420, palm across x690..985 y440..770, wrist at x900 y770, forearm extends diagonally down-right and leaves bottom edge x950..1260. Five fingers including thumb in same positions as original. Replace bare hand with a snug dark brown/black glove and cuff, exposed pale forearm, edge of white puff sleeve near lower right/bottom. Keep EXACT hand silhouette, scale and crop from image1, not a centered hand icon. Remove the clock completely from this output; it will remain from original footage underneath the replacement hand. Only the one hand/arm, all other pixels transparent, no background, text, clock or other objects. Thin imperfect brown-grey lines, plain flat colors, no extra ornament or photoreal shading.",
+  "references": [
+    {
+      "path": "refs/source-f00120.png",
+      "role": "exact_hand_pose_and_occlusion"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "glove_sleeve_identity_only"
+    }
+  ],
+  "output": {
+    "path": "generated/clock-hand-f00120-v1.png",
+    "role": "generated_candidate",
+    "job": "clock-hand-f00120-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-d7b676be-0f06-4476-ba30-bbf5934085e6.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "3ac48d59d5abe31acacf96f1a1d906f8e73bb2779a1fcaa0ca240caed4111cc4",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      115,
+      122
+    ],
+    [
+      1939,
+      1944
+    ],
+    [
+      2003,
+      2008
+    ],
+    [
+      2067,
+      2072
+    ],
+    [
+      2131,
+      2136
+    ],
+    [
+      2195,
+      2200
+    ],
+    [
+      2259,
+      2264
+    ],
+    [
+      6267,
+      6280
+    ]
+  ]
+}

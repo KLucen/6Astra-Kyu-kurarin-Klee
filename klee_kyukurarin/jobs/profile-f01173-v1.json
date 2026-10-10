@@ -1,0 +1,40 @@
+{
+  "id": "profile-f01173-v1",
+  "source_frame": 1173,
+  "status": "generated",
+  "prompt": "Use case: illustration-story. Transparent animation character cel. Image1 is the exact current PV frame: only one large LEFT-FACING PROFILE from chest upward, visible redrawn character confined to the existing crop. Replace her with young Klee in her Blossoming Starlight witch outfit. Image2 is only simplified costume/identity, NOT pose. Keep source head center around (930,360) and eye/nose/mouth positions and backpack side on this 1920x1080 canvas. Klee looks quietly to SCREEN LEFT, one visible red eye OPEN, mouth small and neutral. Her near gloved hand curls gently in front of her mouth/chin around (745,505), wrist and elbow descend toward the bottom left. The other hand is not visible and must not appear. Large backpack visible to the right of shoulders. Blonde short twin tails, elf ear, red witch hat with cream lining and a simple bow/clover, dark small shoulder cape, white puff sleeve, dark glove, upper red dress and brown backpack. Hat can be cropped at the TOP; body leaves the BOTTOM frame. Do not zoom out to fit the whole figure, no legs or lower torso. Match original source's simple thin grey-brown hand-drawn contours and flat fills, minimal small details, no shading, no paper texture or glow. Keep screen-right lyric space empty and fully transparent. Output just ONE upper-body Klee on transparent 16:9 full-frame canvas, no lettering, no backdrop.",
+  "references": [
+    {
+      "path": "refs/source-f01173.png",
+      "role": "exact_profile_pose"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "identity_only"
+    }
+  ],
+  "output": {
+    "path": "generated/profile-f01173-v1.png",
+    "role": "generated_candidate",
+    "job": "profile-f01173-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-22e0577c-d125-4683-aaaa-271776cfbbda.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "009bacf4739dbecef7adfd0939dc5b77223e283ec050cceb9655f69b52fd8a0d",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      1152,
+      1400
+    ],
+    [
+      5016,
+      5272
+    ]
+  ]
+}

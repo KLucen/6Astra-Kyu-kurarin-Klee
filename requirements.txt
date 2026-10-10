@@ -1,0 +1,5 @@
+# Versions used by the archived production environment (Python 3.14.6).
+numpy==2.4.6
+pillow==12.3.0
+opencv-python-headless==5.0.0.93
+av==19.0.1

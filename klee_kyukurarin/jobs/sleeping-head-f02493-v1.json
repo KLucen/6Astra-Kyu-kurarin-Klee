@@ -1,0 +1,44 @@
+{
+  "id": "sleeping-head-f02493-v1",
+  "source_frame": 2493,
+  "status": "generated",
+  "prompt": "Create a transparent replacement animation cel for the sleeping character in image1. Image2 supplies Klee Blossoming Starlight identity only. Match EXACT original 16:9 frame, including the very small head positioned at x1200..1400, y505..650 on a 1920x1080 composition. Everything except the visible character's hair/head must be transparent: NO bed, NO blanket, NO pillow, NO writing. We will composite this BEHIND the original blanket and on the original pillow. Only the back/crown of sleeping Klee's head is visible, facing away, resting sideways to screen right; no eyes, mouth, face, hands or body visible. Draw pale blonde hair matching the same gently rounded original crown contour, a very small red tied ribbon and short blonde side tuft. Her large witch hat is removed for sleep and not visible in this cel. Keep the source head position and tiny scale EXACTLY, do not center or enlarge the head. Simple hand-drawn thin brown-grey outline, plain flat fill, no gradients, no texture, no shadows. All unused canvas transparent.",
+  "references": [
+    {
+      "path": "refs/source-f02493.png",
+      "role": "exact_visible_head_position_and_occlusion"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "identity_colors_only"
+    }
+  ],
+  "output": {
+    "path": "generated/sleeping-head-f02493-v1.png",
+    "role": "generated_candidate",
+    "job": "sleeping-head-f02493-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-9695ca6e-b1aa-41dc-8bdb-e236f0869707.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "01dc300487d7dc7829dbdbed1dde7aefa6b12ffa0098a058e805eddad6c3fef5",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      2400,
+      2900
+    ],
+    [
+      3992,
+      4232
+    ],
+    [
+      4248,
+      4488
+    ]
+  ]
+}

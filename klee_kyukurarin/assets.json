@@ -1,0 +1,3131 @@
+{
+  "schema": 1,
+  "source_sha256": "8a12d68acb700dce1234f730d6ad2725d606676d8cd431be17a614e6bae66ccb",
+  "assets": [
+    {
+      "path": "refs/source-f00000.png",
+      "role": "source_reference",
+      "source_frame": 0,
+      "pts_tick": 0,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "d111884370717751e3741f23b9143bc805cbfc760becd2a110cf8c5742a642fe",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "d111884370717751e3741f23b9143bc805cbfc760becd2a110cf8c5742a642fe",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f00010.png",
+      "role": "source_reference",
+      "source_frame": 10,
+      "pts_tick": 5456,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "ab3f33207268a7c979d266c06978eb39f4a2f6c51c7048f290364ca2709950d3",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "ab3f33207268a7c979d266c06978eb39f4a2f6c51c7048f290364ca2709950d3",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f00030.png",
+      "role": "source_reference",
+      "source_frame": 30,
+      "pts_tick": 16368,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "4d3e60304ceed9439c15e82f13480d51130eeb7e2f76a90beac307f9cd5a1fef",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "4d3e60304ceed9439c15e82f13480d51130eeb7e2f76a90beac307f9cd5a1fef",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f00060.png",
+      "role": "source_reference",
+      "source_frame": 60,
+      "pts_tick": 32720,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "a05ab2a2f8839e166f512481ac616641da91ab85116201558ee2078ce5072eef",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "a05ab2a2f8839e166f512481ac616641da91ab85116201558ee2078ce5072eef",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f00090.png",
+      "role": "source_reference",
+      "source_frame": 90,
+      "pts_tick": 49088,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "7ddb9b3fd69dcf02d868fdb9f9939fc48e317f62073c686e869d8c3d800d4a70",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "7ddb9b3fd69dcf02d868fdb9f9939fc48e317f62073c686e869d8c3d800d4a70",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f00120.png",
+      "role": "source_reference",
+      "source_frame": 120,
+      "pts_tick": 65456,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "243eeaee63d04a6e6b7af724f346c20c72619553fcd4857593b29f4fcdce7b2b",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "243eeaee63d04a6e6b7af724f346c20c72619553fcd4857593b29f4fcdce7b2b",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f00147.png",
+      "role": "source_reference",
+      "source_frame": 147,
+      "pts_tick": 80176,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "4a405142725cdc23bb9df429ab26ac9f67199eb7faad74dc68fb7e8b642b80a5",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "4a405142725cdc23bb9df429ab26ac9f67199eb7faad74dc68fb7e8b642b80a5",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f00293.png",
+      "role": "source_reference",
+      "source_frame": 293,
+      "pts_tick": 159824,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "f231bd73282124343c454fa205806c2b52471cf8c5c10b91c801cbc028a42e4f",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "f231bd73282124343c454fa205806c2b52471cf8c5c10b91c801cbc028a42e4f",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f00440.png",
+      "role": "source_reference",
+      "source_frame": 440,
+      "pts_tick": 240000,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "a3111eb9f5567882544f19a4acd46b4cf4b95a02a9fd5e8ad2342cddeee43bd6",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "a3111eb9f5567882544f19a4acd46b4cf4b95a02a9fd5e8ad2342cddeee43bd6",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f00587.png",
+      "role": "source_reference",
+      "source_frame": 587,
+      "pts_tick": 320192,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "16289530cdeb743a99e07229db394a60df3d6e9136d169413f50b6837dd92c30",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "16289530cdeb743a99e07229db394a60df3d6e9136d169413f50b6837dd92c30",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f00733.png",
+      "role": "source_reference",
+      "source_frame": 733,
+      "pts_tick": 399824,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "c9e0ec5e18a5cdb38c7cbbcb2dfe784f2728394685acd64834301cbe872aad69",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "c9e0ec5e18a5cdb38c7cbbcb2dfe784f2728394685acd64834301cbe872aad69",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f00880.png",
+      "role": "source_reference",
+      "source_frame": 880,
+      "pts_tick": 480000,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "47e7e00cdd5c49a30f644cf85541d30c2e0a360857ad29f1cae2d6334f4e1638",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "47e7e00cdd5c49a30f644cf85541d30c2e0a360857ad29f1cae2d6334f4e1638",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f01027.png",
+      "role": "source_reference",
+      "source_frame": 1027,
+      "pts_tick": 560192,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "66e06e6c18f7e66624f1c569a603911cb8491eedd8b18158b4447c5bf214deb8",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "66e06e6c18f7e66624f1c569a603911cb8491eedd8b18158b4447c5bf214deb8",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f01173.png",
+      "role": "source_reference",
+      "source_frame": 1173,
+      "pts_tick": 639824,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "87cbd9f4d6d38db1a735a389ad6b4812d1980c26711d6bb2967c9b71ce8df969",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "87cbd9f4d6d38db1a735a389ad6b4812d1980c26711d6bb2967c9b71ce8df969",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f01320.png",
+      "role": "source_reference",
+      "source_frame": 1320,
+      "pts_tick": 720016,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "736f6996e6b50d5eb855ab5aef786838c3e6cf1e032f4c0bdc9692b1bc6e035c",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "736f6996e6b50d5eb855ab5aef786838c3e6cf1e032f4c0bdc9692b1bc6e035c",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f01467.png",
+      "role": "source_reference",
+      "source_frame": 1467,
+      "pts_tick": 800192,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "af1b7d16d0fdaa4c8b305e857dde36565281c17825d08ca10bcc61b772420809",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "af1b7d16d0fdaa4c8b305e857dde36565281c17825d08ca10bcc61b772420809",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f01613.png",
+      "role": "source_reference",
+      "source_frame": 1613,
+      "pts_tick": 879824,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "49bd125454e018caf427f12f4320864d1acb6e25681598345a5012c9b185fe87",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "49bd125454e018caf427f12f4320864d1acb6e25681598345a5012c9b185fe87",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f01760.png",
+      "role": "source_reference",
+      "source_frame": 1760,
+      "pts_tick": 960016,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "e4ddf3e7c488ecab7efa02faa1c66584130d6c722c2de50c66b16bb4325c7f21",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "e4ddf3e7c488ecab7efa02faa1c66584130d6c722c2de50c66b16bb4325c7f21",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f01907.png",
+      "role": "source_reference",
+      "source_frame": 1907,
+      "pts_tick": 1040192,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "9b20ee95d8a67e92a1589a194e8714e8a48fa2ad1f08f26ce008e3847841e132",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "9b20ee95d8a67e92a1589a194e8714e8a48fa2ad1f08f26ce008e3847841e132",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f02053.png",
+      "role": "source_reference",
+      "source_frame": 2053,
+      "pts_tick": 1119824,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "b4e79f73cd150630302e3e23c2eb54a844d4c16b545968ca155e6d812657a116",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "b4e79f73cd150630302e3e23c2eb54a844d4c16b545968ca155e6d812657a116",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f02200.png",
+      "role": "source_reference",
+      "source_frame": 2200,
+      "pts_tick": 1200016,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "2f11f2f9ce83e88dd5cd0230f6e597a3b65f48fccbca1bc17170d01df4db937c",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "2f11f2f9ce83e88dd5cd0230f6e597a3b65f48fccbca1bc17170d01df4db937c",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f02347.png",
+      "role": "source_reference",
+      "source_frame": 2347,
+      "pts_tick": 1280192,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "1f75232e8bd61a8292ac5398f1f9a3748b853bb65e37fe3812b4c1b3125ffb9f",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "1f75232e8bd61a8292ac5398f1f9a3748b853bb65e37fe3812b4c1b3125ffb9f",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f02493.png",
+      "role": "source_reference",
+      "source_frame": 2493,
+      "pts_tick": 1359840,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "833f4dbb3e2b34509c3a36061cb0387900503c0fe73cd96d71dc43b5d2bfc69e",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "833f4dbb3e2b34509c3a36061cb0387900503c0fe73cd96d71dc43b5d2bfc69e",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f02640.png",
+      "role": "source_reference",
+      "source_frame": 2640,
+      "pts_tick": 1440016,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "4981008667eb2c4d403683c54283528c6a6714dc4d4ba8c43035cf566e0b6e7f",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "4981008667eb2c4d403683c54283528c6a6714dc4d4ba8c43035cf566e0b6e7f",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f02787.png",
+      "role": "source_reference",
+      "source_frame": 2787,
+      "pts_tick": 1520192,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "9bd0851da376a40d26a464aa79bbb24e81f7b9d9bf62fb7164e4fb0603c4d6d5",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "9bd0851da376a40d26a464aa79bbb24e81f7b9d9bf62fb7164e4fb0603c4d6d5",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f02933.png",
+      "role": "source_reference",
+      "source_frame": 2933,
+      "pts_tick": 1599840,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "646fe1ff4c8d1aeeea3c6c0016cd52d0882accbee6ebe55836a39ec91c3d7d6c",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "646fe1ff4c8d1aeeea3c6c0016cd52d0882accbee6ebe55836a39ec91c3d7d6c",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f03080.png",
+      "role": "source_reference",
+      "source_frame": 3080,
+      "pts_tick": 1680016,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "12eda23bf93f4eb624ff2034d9e12d7a1c6631895c24fb32e05d6634a4090e73",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "12eda23bf93f4eb624ff2034d9e12d7a1c6631895c24fb32e05d6634a4090e73",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f03227.png",
+      "role": "source_reference",
+      "source_frame": 3227,
+      "pts_tick": 1760208,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "587770884a1913725466984d32b3a9f48fd1fbc6401e780070aa0aadb0b4a7b6",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "587770884a1913725466984d32b3a9f48fd1fbc6401e780070aa0aadb0b4a7b6",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f03373.png",
+      "role": "source_reference",
+      "source_frame": 3373,
+      "pts_tick": 1839840,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "92efab1bfbdc5d3bb5e2d42dc9b155c3a0be3490472acfcb05f9ab1c7151439c",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "92efab1bfbdc5d3bb5e2d42dc9b155c3a0be3490472acfcb05f9ab1c7151439c",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f03520.png",
+      "role": "source_reference",
+      "source_frame": 3520,
+      "pts_tick": 1920016,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "91b82dd10c0c94e23ab3bbd8584a9fa514f9cfb81ad70af1cfd0043534d08b80",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "91b82dd10c0c94e23ab3bbd8584a9fa514f9cfb81ad70af1cfd0043534d08b80",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f03667.png",
+      "role": "source_reference",
+      "source_frame": 3667,
+      "pts_tick": 2000208,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "01c15af57df8f47ddc04ca9d2d8a95d8f311830bec3de1d740d98068f24d6d14",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "01c15af57df8f47ddc04ca9d2d8a95d8f311830bec3de1d740d98068f24d6d14",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f03813.png",
+      "role": "source_reference",
+      "source_frame": 3813,
+      "pts_tick": 2079840,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "59311b175036d4afec986c8ebb9cf6ab51dd4b460a1f1f3d177dc905e291318d",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "59311b175036d4afec986c8ebb9cf6ab51dd4b460a1f1f3d177dc905e291318d",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f03960.png",
+      "role": "source_reference",
+      "source_frame": 3960,
+      "pts_tick": 2160032,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "be768fd372054dd477b3c55a85c703c0ab3196513ab4723301b09661096701ec",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "be768fd372054dd477b3c55a85c703c0ab3196513ab4723301b09661096701ec",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f04107.png",
+      "role": "source_reference",
+      "source_frame": 4107,
+      "pts_tick": 2240208,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "c88c96c924f8630ac1834db18c885230f7e745a2287c6f8ddeeb2bcbfe444531",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "c88c96c924f8630ac1834db18c885230f7e745a2287c6f8ddeeb2bcbfe444531",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f04253.png",
+      "role": "source_reference",
+      "source_frame": 4253,
+      "pts_tick": 2319840,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "6182bc4a3eb98305aae0ce27e59edf87eb7a50fd0547b5189d23f8fa40e79ce8",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "6182bc4a3eb98305aae0ce27e59edf87eb7a50fd0547b5189d23f8fa40e79ce8",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f04400.png",
+      "role": "source_reference",
+      "source_frame": 4400,
+      "pts_tick": 2400032,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "745d0bdf7fd650b9bcf0bb749987a970fb689b732c43d4abb4533198dcf9f0fa",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "745d0bdf7fd650b9bcf0bb749987a970fb689b732c43d4abb4533198dcf9f0fa",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f04547.png",
+      "role": "source_reference",
+      "source_frame": 4547,
+      "pts_tick": 2480208,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "41f1a2f905e2822e21cbdca97e729b2f6b487fc54f72ee0bc07c25f3d576434a",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "41f1a2f905e2822e21cbdca97e729b2f6b487fc54f72ee0bc07c25f3d576434a",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f04693.png",
+      "role": "source_reference",
+      "source_frame": 4693,
+      "pts_tick": 2559840,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "3b8e2ecfb5ddca408d7ab769e6449ececf7809a830677d4f69eddac14d12016c",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "3b8e2ecfb5ddca408d7ab769e6449ececf7809a830677d4f69eddac14d12016c",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f04840.png",
+      "role": "source_reference",
+      "source_frame": 4840,
+      "pts_tick": 2640032,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "3498e8a8fcbd6dcc95777e3b30a88e1ea77e7bd283b04c1680d80b57de15e99f",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "3498e8a8fcbd6dcc95777e3b30a88e1ea77e7bd283b04c1680d80b57de15e99f",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f04987.png",
+      "role": "source_reference",
+      "source_frame": 4987,
+      "pts_tick": 2720208,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "607bb8582a28e3e2c1047583db3a244d128b80dfa810fd186eff7ea62373798b",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "607bb8582a28e3e2c1047583db3a244d128b80dfa810fd186eff7ea62373798b",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f05133.png",
+      "role": "source_reference",
+      "source_frame": 5133,
+      "pts_tick": 2799856,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "5edcb5ff60c917e1d59775b1d3ffdcd084b9093d723b6ca335bad48b20bbf742",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "5edcb5ff60c917e1d59775b1d3ffdcd084b9093d723b6ca335bad48b20bbf742",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f05280.png",
+      "role": "source_reference",
+      "source_frame": 5280,
+      "pts_tick": 2880032,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "05ea204d6eba7bba9815b64e6850fa03131586eeedcb65c6d72aaf06ac5097aa",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "05ea204d6eba7bba9815b64e6850fa03131586eeedcb65c6d72aaf06ac5097aa",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f05427.png",
+      "role": "source_reference",
+      "source_frame": 5427,
+      "pts_tick": 2960208,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "cc2b75ed333c14ea82bb750b1d73356414c1e8de957a655d468d46ac6b01bffb",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "cc2b75ed333c14ea82bb750b1d73356414c1e8de957a655d468d46ac6b01bffb",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f05573.png",
+      "role": "source_reference",
+      "source_frame": 5573,
+      "pts_tick": 3039856,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "004f128715f17be00f7d4d7e0dbde74fd3d6a6eefbeaa7cf3cc2fddf778ad490",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "004f128715f17be00f7d4d7e0dbde74fd3d6a6eefbeaa7cf3cc2fddf778ad490",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f05720.png",
+      "role": "source_reference",
+      "source_frame": 5720,
+      "pts_tick": 3120032,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "39181097ea97b063424de6a4ac9df5a2a2f40a8a1d8e41f27cace3e40770f2f5",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "39181097ea97b063424de6a4ac9df5a2a2f40a8a1d8e41f27cace3e40770f2f5",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f05867.png",
+      "role": "source_reference",
+      "source_frame": 5867,
+      "pts_tick": 3200224,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "524103bf5381fceb4efa99b8e0c91014c02128d844eafdd0c006c16b30d8fb24",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "524103bf5381fceb4efa99b8e0c91014c02128d844eafdd0c006c16b30d8fb24",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f06013.png",
+      "role": "source_reference",
+      "source_frame": 6013,
+      "pts_tick": 3279856,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "de70cc2abab96d304e27f15f22866aea3fbf4be02a7dc2a4c4aa37a5a86c02c5",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "de70cc2abab96d304e27f15f22866aea3fbf4be02a7dc2a4c4aa37a5a86c02c5",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f06160.png",
+      "role": "source_reference",
+      "source_frame": 6160,
+      "pts_tick": 3360032,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "874f6e0fe720082cf7d57cc8057fc9c41b1b639a5fc0df8da3bffbcf015ed215",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "874f6e0fe720082cf7d57cc8057fc9c41b1b639a5fc0df8da3bffbcf015ed215",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f06307.png",
+      "role": "source_reference",
+      "source_frame": 6307,
+      "pts_tick": 3440224,
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "2b98eff4a6327de449537740d371816b5c3267b903ea5c985d903c87e4f952d8",
+      "review": "not_recorded",
+      "metadata_history": [
+        {
+          "superseded_metadata": {
+            "sha256": "2b98eff4a6327de449537740d371816b5c3267b903ea5c985d903c87e4f952d8",
+            "size": [
+              313,
+              176
+            ],
+            "mode": null
+          },
+          "reason": "Reconciled current full-resolution source reference after earlier extraction replaced overview-sized file."
+        }
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "generated/anchor-f01027-v1.png",
+      "role": "generated_character_style_anchor",
+      "source_frame": 1027,
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "80a7f54dd57677eb690d79ee241145a692280007de85a744320245964c3f4923",
+      "status": "used_in_draft_static_review_only",
+      "job": "anchor-f01027-v1",
+      "mode": "RGB",
+      "used_intervals": [
+        [
+          128,
+          188
+        ],
+        [
+          192,
+          252
+        ],
+        [
+          256,
+          316
+        ],
+        [
+          320,
+          380
+        ],
+        [
+          384,
+          444
+        ],
+        [
+          448,
+          508
+        ],
+        [
+          512,
+          572
+        ],
+        [
+          576,
+          636
+        ],
+        [
+          640,
+          700
+        ],
+        [
+          704,
+          764
+        ],
+        [
+          768,
+          828
+        ],
+        [
+          832,
+          892
+        ],
+        [
+          896,
+          956
+        ],
+        [
+          960,
+          1020
+        ],
+        [
+          1024,
+          1084
+        ],
+        [
+          1088,
+          1145
+        ],
+        [
+          2917,
+          2976
+        ],
+        [
+          2981,
+          3040
+        ],
+        [
+          3045,
+          3104
+        ],
+        [
+          3109,
+          3168
+        ],
+        [
+          3173,
+          3232
+        ],
+        [
+          3237,
+          3296
+        ],
+        [
+          3301,
+          3360
+        ],
+        [
+          3365,
+          3424
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "refs/klee-official-outfit.jpg",
+      "role": "official_costume_reference",
+      "url": "https://webstatic.hoyoverse.com/upload/op-public/2023/06/21/3aae49573a525b69ba832883a822f64e_8488129397694502949.jpg",
+      "source_page": "https://genshin.hoyoverse.com/zh-tw/news/detail/111981",
+      "size": [
+        1200,
+        675
+      ],
+      "sha256": "e4838c15436bceb2b760cf137175ec4b26a62ceaa79af1c483d29cfd3d66b3d5",
+      "mode": "RGB"
+    },
+    {
+      "path": "generated/pose02-f00138-v1.png",
+      "role": "generated_candidate",
+      "job": "pose02-f00138-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-e24d3d8b-87aa-4527-a810-5f207122b396.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "43dc531d5849732e6f93613dc20458cbf74bc5b69660ea3c57e75ac24f3759d8",
+      "status": "rejected_superseded",
+      "reason": "Wrong standing-leg direction; superseded by v2.",
+      "used_intervals": []
+    },
+    {
+      "path": "generated/pose02-f00138-v2.png",
+      "role": "generated_candidate",
+      "job": "pose02-f00138-v2",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-d3e3b08a-aa18-4dfe-9182-31b28dfe40ad.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "9f65a948e1e23ca7d2c0615212427351d58390f73c4f37f8fc1b4f1dd63883dd",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          136,
+          188
+        ],
+        [
+          200,
+          252
+        ],
+        [
+          264,
+          316
+        ],
+        [
+          328,
+          380
+        ],
+        [
+          392,
+          444
+        ],
+        [
+          456,
+          508
+        ],
+        [
+          520,
+          572
+        ],
+        [
+          584,
+          636
+        ],
+        [
+          648,
+          700
+        ],
+        [
+          712,
+          764
+        ],
+        [
+          776,
+          828
+        ],
+        [
+          840,
+          892
+        ],
+        [
+          904,
+          956
+        ],
+        [
+          968,
+          1020
+        ],
+        [
+          1032,
+          1084
+        ],
+        [
+          1096,
+          1145
+        ],
+        [
+          2920,
+          2976
+        ],
+        [
+          2984,
+          3040
+        ],
+        [
+          3048,
+          3104
+        ],
+        [
+          3112,
+          3168
+        ],
+        [
+          3176,
+          3232
+        ],
+        [
+          3240,
+          3296
+        ],
+        [
+          3304,
+          3360
+        ],
+        [
+          3368,
+          3424
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/pose03-f00146-v1.png",
+      "role": "generated_candidate",
+      "job": "pose03-f00146-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-32f1753b-488d-446c-b4cd-01012aa1456d.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "0652be84672d5ea5f53490ca5cc08b68a65e08f2a2e2ba07ea82e708515ed39f",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          144,
+          188
+        ],
+        [
+          208,
+          252
+        ],
+        [
+          272,
+          316
+        ],
+        [
+          336,
+          380
+        ],
+        [
+          400,
+          444
+        ],
+        [
+          464,
+          508
+        ],
+        [
+          528,
+          572
+        ],
+        [
+          592,
+          636
+        ],
+        [
+          656,
+          700
+        ],
+        [
+          720,
+          764
+        ],
+        [
+          784,
+          828
+        ],
+        [
+          848,
+          892
+        ],
+        [
+          912,
+          956
+        ],
+        [
+          976,
+          1020
+        ],
+        [
+          1040,
+          1084
+        ],
+        [
+          1104,
+          1145
+        ],
+        [
+          2933,
+          2976
+        ],
+        [
+          2997,
+          3040
+        ],
+        [
+          3061,
+          3104
+        ],
+        [
+          3125,
+          3168
+        ],
+        [
+          3189,
+          3232
+        ],
+        [
+          3253,
+          3296
+        ],
+        [
+          3317,
+          3360
+        ],
+        [
+          3381,
+          3424
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/pose04-f00154-v1.png",
+      "role": "generated_candidate",
+      "job": "pose04-f00154-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-c2cc0c73-45a3-45d8-8bf8-4801420cc84b.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "6f070884e057ba9adccfc35fa86eba5abbece8f59aad5c1ec85f578a599e396f",
+      "status": "rejected_superseded",
+      "reason": "Wrong standing-leg direction; superseded by v2.",
+      "used_intervals": []
+    },
+    {
+      "path": "generated/pose05-f00162-v1.png",
+      "role": "generated_candidate",
+      "job": "pose05-f00162-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-13d1feaa-2e01-4983-be7a-8e0055a00c45.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "83fdb54c3e5f4b9f2a167cb958c8cd932f219fdd7f5a7b4a9312e7486187e009",
+      "status": "rejected_superseded",
+      "reason": "Extra shoe; superseded by v2.",
+      "used_intervals": []
+    },
+    {
+      "path": "generated/pose06-f00170-v1.png",
+      "role": "generated_candidate",
+      "job": "pose06-f00170-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-7d1e8499-93fa-426e-a306-73addc55baad.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "53ceb403894dad02fdf2a99026cb776d5b9247daf2f197a306a625cb31896790",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          168,
+          188
+        ],
+        [
+          232,
+          252
+        ],
+        [
+          296,
+          316
+        ],
+        [
+          360,
+          380
+        ],
+        [
+          424,
+          444
+        ],
+        [
+          488,
+          508
+        ],
+        [
+          552,
+          572
+        ],
+        [
+          616,
+          636
+        ],
+        [
+          680,
+          700
+        ],
+        [
+          744,
+          764
+        ],
+        [
+          808,
+          828
+        ],
+        [
+          872,
+          892
+        ],
+        [
+          936,
+          956
+        ],
+        [
+          1000,
+          1020
+        ],
+        [
+          1064,
+          1084
+        ],
+        [
+          1128,
+          1145
+        ],
+        [
+          2952,
+          2976
+        ],
+        [
+          3016,
+          3040
+        ],
+        [
+          3080,
+          3104
+        ],
+        [
+          3144,
+          3168
+        ],
+        [
+          3208,
+          3232
+        ],
+        [
+          3272,
+          3296
+        ],
+        [
+          3336,
+          3360
+        ],
+        [
+          3400,
+          3424
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/pose07-f00178-v1.png",
+      "role": "generated_candidate",
+      "job": "pose07-f00178-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-96b6f794-5ed2-4de3-a766-36d16b66eae4.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "b82527e5bd5005878022e41ce02c223e9937a7a6171059344c0345081775f6e5",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          176,
+          188
+        ],
+        [
+          240,
+          252
+        ],
+        [
+          304,
+          316
+        ],
+        [
+          368,
+          380
+        ],
+        [
+          432,
+          444
+        ],
+        [
+          496,
+          508
+        ],
+        [
+          560,
+          572
+        ],
+        [
+          624,
+          636
+        ],
+        [
+          688,
+          700
+        ],
+        [
+          752,
+          764
+        ],
+        [
+          816,
+          828
+        ],
+        [
+          880,
+          892
+        ],
+        [
+          944,
+          956
+        ],
+        [
+          1008,
+          1020
+        ],
+        [
+          1072,
+          1084
+        ],
+        [
+          1136,
+          1145
+        ],
+        [
+          2960,
+          2976
+        ],
+        [
+          3024,
+          3040
+        ],
+        [
+          3088,
+          3104
+        ],
+        [
+          3152,
+          3168
+        ],
+        [
+          3216,
+          3232
+        ],
+        [
+          3280,
+          3296
+        ],
+        [
+          3344,
+          3360
+        ],
+        [
+          3408,
+          3424
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/pose04-f00154-v2.png",
+      "role": "generated_candidate",
+      "job": "pose04-f00154-v2",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-f6ad3b46-377b-4892-b1ce-be537ecf4901.png",
+      "size": [
+        1671,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "152c6a9d8133af6f9cc4c83d844d70b2593a60c3ea106240e24b6badb7457531",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          152,
+          188
+        ],
+        [
+          216,
+          252
+        ],
+        [
+          280,
+          316
+        ],
+        [
+          344,
+          380
+        ],
+        [
+          408,
+          444
+        ],
+        [
+          472,
+          508
+        ],
+        [
+          536,
+          572
+        ],
+        [
+          600,
+          636
+        ],
+        [
+          664,
+          700
+        ],
+        [
+          728,
+          764
+        ],
+        [
+          792,
+          828
+        ],
+        [
+          856,
+          892
+        ],
+        [
+          920,
+          956
+        ],
+        [
+          984,
+          1020
+        ],
+        [
+          1048,
+          1084
+        ],
+        [
+          1112,
+          1145
+        ],
+        [
+          2936,
+          2976
+        ],
+        [
+          3000,
+          3040
+        ],
+        [
+          3064,
+          3104
+        ],
+        [
+          3128,
+          3168
+        ],
+        [
+          3192,
+          3232
+        ],
+        [
+          3256,
+          3296
+        ],
+        [
+          3320,
+          3360
+        ],
+        [
+          3384,
+          3424
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/pose05-f00162-v2.png",
+      "role": "generated_candidate",
+      "job": "pose05-f00162-v2",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-1d506dfa-11bc-46ca-a622-5ef6a06d11fb.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "96f4b332ef90e49e0c50ece09a44351ae4fb0a40faf2c4d193182214bf5322cd",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          160,
+          188
+        ],
+        [
+          224,
+          252
+        ],
+        [
+          288,
+          316
+        ],
+        [
+          352,
+          380
+        ],
+        [
+          416,
+          444
+        ],
+        [
+          480,
+          508
+        ],
+        [
+          544,
+          572
+        ],
+        [
+          608,
+          636
+        ],
+        [
+          672,
+          700
+        ],
+        [
+          736,
+          764
+        ],
+        [
+          800,
+          828
+        ],
+        [
+          864,
+          892
+        ],
+        [
+          928,
+          956
+        ],
+        [
+          992,
+          1020
+        ],
+        [
+          1056,
+          1084
+        ],
+        [
+          1120,
+          1145
+        ],
+        [
+          2944,
+          2976
+        ],
+        [
+          3008,
+          3040
+        ],
+        [
+          3072,
+          3104
+        ],
+        [
+          3136,
+          3168
+        ],
+        [
+          3200,
+          3232
+        ],
+        [
+          3264,
+          3296
+        ],
+        [
+          3328,
+          3360
+        ],
+        [
+          3392,
+          3424
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/profile-f01173-v1.png",
+      "role": "generated_candidate",
+      "job": "profile-f01173-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-22e0577c-d125-4683-aaaa-271776cfbbda.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "009bacf4739dbecef7adfd0939dc5b77223e283ec050cceb9655f69b52fd8a0d",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          1152,
+          1400
+        ],
+        [
+          5016,
+          5272
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/cheeks-closed-f01408-v1.png",
+      "role": "generated_candidate",
+      "job": "cheeks-closed-f01408-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-46c2cd95-03d6-4980-92de-6e1d17cf149e.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "fcef466fb02746a8cb97cc2146d823e2a77ce5b3bc4757d55b15ba680aa901c5",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          1408,
+          1432
+        ],
+        [
+          1440,
+          1448
+        ],
+        [
+          1456,
+          1464
+        ],
+        [
+          1472,
+          1488
+        ],
+        [
+          1512,
+          1524
+        ],
+        [
+          1528,
+          1536
+        ],
+        [
+          3488,
+          3520
+        ],
+        [
+          3528,
+          3544
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/cheeks-open-f03555-v1.png",
+      "role": "generated_candidate",
+      "job": "cheeks-open-f03555-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-5391d381-2375-46b6-93d1-02db1912a086.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "4b614c817f7d5523848d615afdfcbab39c002d32c4d17ff619cf6c598c7523e1",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          1664,
+          1880
+        ],
+        [
+          3544,
+          3736
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/face-covered-f03748-v1.png",
+      "role": "generated_candidate",
+      "job": "face-covered-f03748-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-cb71a978-30de-45d1-8e2c-0ad65072ccd0.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "812f2f221b5f5029a811d0adc7c53e8f4439bbd0b7b322e1c37811fc51c72741",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          3736,
+          3984
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/crying-f05573-v1.png",
+      "role": "generated_candidate",
+      "job": "crying-f05573-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-ab9980c6-c90f-44bb-b4fd-c40e77051deb.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "5fd936eb7745a6795901686776d63a0eb5c21d2bac1a033ab6f987f38e396e82",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          5560,
+          5768
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/sleeping-head-f02493-v1.png",
+      "role": "generated_candidate",
+      "job": "sleeping-head-f02493-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-9695ca6e-b1aa-41dc-8bdb-e236f0869707.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "01dc300487d7dc7829dbdbed1dde7aefa6b12ffa0098a058e805eddad6c3fef5",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          2400,
+          2900
+        ],
+        [
+          3992,
+          4232
+        ],
+        [
+          4248,
+          4488
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/bed-sitting-f04544-v1.png",
+      "role": "generated_candidate",
+      "job": "bed-sitting-f04544-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-efcf106e-efc1-4b4a-a706-dd488aadace0.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "578df84dde175a99f677890d4acc2accd6c25dadcf6d23c18d28b38afffd002d",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          4504,
+          4712
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/head-down-f04712-v1.png",
+      "role": "generated_candidate",
+      "job": "head-down-f04712-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-59ee6b26-1708-4c63-873d-208a6ea96623.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "0089f1f75a1fdb6295e4408cc9a17369705a4ff790f3e4265d4bd23678180b14",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          4712,
+          4752
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/flower-hands-f04760-v1.png",
+      "role": "generated_candidate",
+      "job": "flower-hands-f04760-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-ba638da3-91b6-4165-b86a-3d11051adb3f.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "7e3eb57f89bc932292d5bec040676ae2af8a259c44a3bb39b1f71c042c290e7c",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          4760,
+          4984
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/clock-hand-f00120-v1.png",
+      "role": "generated_candidate",
+      "job": "clock-hand-f00120-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-d7b676be-0f06-4476-ba30-bbf5934085e6.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "3ac48d59d5abe31acacf96f1a1d906f8e73bb2779a1fcaa0ca240caed4111cc4",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          115,
+          122
+        ],
+        [
+          1939,
+          1944
+        ],
+        [
+          2003,
+          2008
+        ],
+        [
+          2067,
+          2072
+        ],
+        [
+          2131,
+          2136
+        ],
+        [
+          2195,
+          2200
+        ],
+        [
+          2259,
+          2264
+        ],
+        [
+          6267,
+          6280
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/hug-open-f05784-v1.png",
+      "role": "generated_candidate",
+      "job": "hug-open-f05784-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-7f124f3a-9715-4401-86e6-5895f7bd0ec4.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "90ca5e6a96e0f18291c5df7c8c05f1712348c15c7579b9f8ee43f5b919644f82",
+      "status": "superseded_by_user_requested_Alice",
+      "used_intervals": [],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      },
+      "previous_v3_intervals": [
+        [
+          5784,
+          6039
+        ]
+      ]
+    },
+    {
+      "path": "generated/hug-closed-f06039-v1.png",
+      "role": "generated_candidate",
+      "job": "hug-closed-f06039-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-d6f19e5e-168f-4ea1-9490-848c09f55279.png",
+      "size": [
+        1671,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "99757d34eafe0670fc97a9f4eabcd429dec10cc135fdc9a0596e544c6f23606d",
+      "status": "superseded_by_user_requested_Alice",
+      "used_intervals": [],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      },
+      "previous_v2_intervals": [
+        [
+          6039,
+          6264
+        ]
+      ]
+    },
+    {
+      "path": "generated/cheeks-rest-f01632-v1.png",
+      "role": "generated_candidate",
+      "job": "cheeks-rest-f01632-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-87c4032f-2e5a-4a3a-8398-9552cb252eba.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "8af558e573428e10e7b6d485a795113f31bd3bee566b2b1b107c4b7e6dd926bb",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          1502,
+          1504
+        ],
+        [
+          1536,
+          1664
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/upside-cry-upright-f05304-v1.png",
+      "role": "generated_candidate",
+      "job": "upside-cry-upright-f05304-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-69d9d2db-e3a5-401e-81f3-4a20f35bc2be.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "c32584e4eaa1e37c0f77f5fa9a8db5101ee003f40adcc29328e598a9090dd75f",
+      "status": "rejected_superseded",
+      "reason": "Right hat brim cropped at canvas edge; superseded by v2.",
+      "used_intervals": []
+    },
+    {
+      "path": "generated/upside-cry-upright-f05304-v2.png",
+      "role": "generated_candidate",
+      "job": "upside-cry-upright-f05304-v2",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-6c53779e-c701-48f8-8567-d0ea99502dd4.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "546298b227fc2021129418b7eb381a57b8e0640688954b3e68cebe1a9b8761ed",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          5304,
+          5560
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/cheeks-mouth-o-f01504-v1.png",
+      "role": "generated_candidate",
+      "job": "cheeks-mouth-o-f01504-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-a5e85637-b0ad-4429-a2aa-03787b777d4f.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "9d50fe817499670233e5500e0fe94f567c45715fa7b2522d10f8ffaf32a8e6eb",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          1464,
+          1472
+        ],
+        [
+          1488,
+          1493
+        ],
+        [
+          1504,
+          1512
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/cheeks-mouth-tiny-f01496-v1.png",
+      "role": "generated_candidate",
+      "job": "cheeks-mouth-tiny-f01496-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-c4f6ea5d-dfe7-4d63-9d80-f5a2b04cb6c4.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "56ced4a62048b2e6ae5b4abe6563a332436f27c22a15565169e70c502bd1aac0",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          1496,
+          1502
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "generated/cheeks-mouth-teeth-f01432-v1.png",
+      "role": "generated_candidate",
+      "job": "cheeks-mouth-teeth-f01432-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-3b0382e2-71c8-4331-9e0b-3f1e9422dd21.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "871fe494dd085495d6681be11779af20a03287c7f00284fdbbbf28b38292f5c9",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          1432,
+          1440
+        ],
+        [
+          1448,
+          1456
+        ],
+        [
+          1493,
+          1496
+        ],
+        [
+          1524,
+          1528
+        ],
+        [
+          3520,
+          3528
+        ]
+      ],
+      "review": {
+        "static": "selected cels and source/composite contact sheets inspected",
+        "native_detail": "selected mouth, clock, flower props and upside boundary inspected",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "analysis/candidates/f00138.png",
+      "role": "derived_reference",
+      "status": "reference_only",
+      "sha256": "42ad0b3ce6c85e19e0fa4360ae4ebf0c513a8f33a671d9838f88c1fa0dfb1cee",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "analysis/candidates/f00146.png",
+      "role": "derived_reference",
+      "status": "reference_only",
+      "sha256": "d8ba220294c6bd605c8c3f4a28973595d5bd0b045c4cf91212167570ab3fff77",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "analysis/candidates/f00154.png",
+      "role": "derived_reference",
+      "status": "reference_only",
+      "sha256": "cc8976b15158db50641376a8f31af981e466303c0bfdac2e366a9de18acaf89c",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "analysis/candidates/f00162.png",
+      "role": "derived_reference",
+      "status": "reference_only",
+      "sha256": "79e76fc0ad4bad92b6e9da066f045ecc998a52973cc93efe9eb3ea5811cc16bc",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "analysis/candidates/f00170.png",
+      "role": "derived_reference",
+      "status": "reference_only",
+      "sha256": "546c06ce7ad22bd461219579edafaeffb1c0bb8b7e5c679cbc6a66f707646707",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "analysis/candidates/f00178.png",
+      "role": "derived_reference",
+      "status": "reference_only",
+      "sha256": "c1f31ab3635650bb7dc87bba18173dbb1721111d635519f7ad4ef1df89ec325e",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "analysis/upside-vertical-review.png",
+      "role": "derived_reference",
+      "status": "reference_only",
+      "sha256": "482bb053e3e66b0bbbb1e13f2cfbe2e06392af6d0b8fccab986d6d6ad0bfed8a",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "derived_reference",
+      "status": "reference_only",
+      "sha256": "a9b9319902d2bbc872d434f2909f188b5a86af1001b0db0c28aef4c2a67576fb",
+      "size": [
+        420,
+        575
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f01408.png",
+      "role": "source_reference",
+      "status": "reference_only",
+      "source_frame": 1408,
+      "sha256": "128bdd2f650cfc21bcba26652f56edd4e22235b7af63d5c0bc197c30f215d1c3",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f01632.png",
+      "role": "source_reference",
+      "status": "reference_only",
+      "source_frame": 1632,
+      "sha256": "62d6652e97ac93555ddb364d632fa4a5e050a8f6a4c83b87e0b2f053c1d498e1",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f03555.png",
+      "role": "source_reference",
+      "status": "reference_only",
+      "source_frame": 3555,
+      "sha256": "2e0f9387ee4cea2589829315ddaf45e49d6883d1982bf3382aaf4947e426863a",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f03748.png",
+      "role": "source_reference",
+      "status": "reference_only",
+      "source_frame": 3748,
+      "sha256": "67760fdb9992d5c715d38226f2d41bab0108a8c8e093bf49e03e7864be3bfbb4",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f04544.png",
+      "role": "source_reference",
+      "status": "reference_only",
+      "source_frame": 4544,
+      "sha256": "f15218005714e469ffbd08995a10072b3cff90c809d649184a5dee93f1a11cac",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f04712.png",
+      "role": "source_reference",
+      "status": "reference_only",
+      "source_frame": 4712,
+      "sha256": "e389e9022f925fc8e1a98d6e043cc2fcea869f6b5a72c9176a86786cf3dac1d2",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f04760.png",
+      "role": "source_reference",
+      "status": "reference_only",
+      "source_frame": 4760,
+      "sha256": "82e8c49ca898eefe3823590869632a4b65d7aa2cda1a90a271fb383574b6d48a",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f05784.png",
+      "role": "source_reference",
+      "status": "reference_only",
+      "source_frame": 5784,
+      "sha256": "7b0117a2d281bf79cc3420833eeb17e17fc012baeed9b317772fb6f77d253caf",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "refs/source-f06039.png",
+      "role": "source_reference",
+      "status": "reference_only",
+      "source_frame": 6039,
+      "sha256": "be847bcd62f6c774838729510333b0ea4058bc6da82f18b1d23168286ae005f0",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "generated/hug-closed-alice-f06039-v1.png",
+      "role": "generated_candidate",
+      "job": "hug-closed-alice-f06039-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-8b7b52ff-9fa5-44a4-b79e-e538b9a17a74.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "ac8580c277ff609b7ef95af0ee8fe942e02f8cb2bdf4dc92b808d44cae7ed987",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          6039,
+          6264
+        ]
+      ],
+      "review": {
+        "static": "Alice game reference, generated cel, aligned 1080p composite inspected",
+        "registration": "analysis/alice-cel-registration.json",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    },
+    {
+      "path": "refs/alice-game-model-three-view.jpg",
+      "role": "Alice_game_design_reference_reposted_model_views",
+      "sha256": "727ef0ed66f0bfdf52e99a9c6076d8c756bcadff140b9b8eb471bc997fbaa6a2",
+      "size": [
+        1080,
+        574
+      ],
+      "source": "https://news.17173.com/content/12012025/165930969.shtml",
+      "official_reveal": "https://www.hoyolab.com/article/40132321",
+      "reference_only": true
+    },
+    {
+      "path": "generated/hug-open-alice-f05784-v1.png",
+      "role": "generated_candidate",
+      "job": "hug-open-alice-f05784-v1",
+      "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-fb3707a0-a736-4cef-866d-b5b94c8f075d.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "af37f7e1475edd31682ff470775c0f128d7026057a00fff3d2f34bbe557781c4",
+      "status": "used_in_draft_static_review_only",
+      "used_intervals": [
+        [
+          5784,
+          6039
+        ]
+      ],
+      "review": {
+        "static": "generated cel, first exposure, echo copies, final open-eye exposure, transition into existing closed-eye Alice inspected",
+        "registration": "analysis/alice-open-cel-registration.json",
+        "dynamic_original_speed": "not_performed",
+        "artistic_acceptance": "pending"
+      }
+    }
+  ],
+  "selections": {
+    "anchor-f01027": "generated/anchor-f01027-v1.png"
+  },
+  "jobs": [
+    {
+      "id": "anchor-f01027-v1",
+      "path": "jobs/anchor-f01027-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "pose02-f00138-v1",
+      "path": "jobs/pose02-f00138-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "pose02-f00138-v2",
+      "path": "jobs/pose02-f00138-v2.json",
+      "status": "generated"
+    },
+    {
+      "id": "pose03-f00146-v1",
+      "path": "jobs/pose03-f00146-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "pose04-f00154-v1",
+      "path": "jobs/pose04-f00154-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "pose05-f00162-v1",
+      "path": "jobs/pose05-f00162-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "pose06-f00170-v1",
+      "path": "jobs/pose06-f00170-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "pose07-f00178-v1",
+      "path": "jobs/pose07-f00178-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "pose04-f00154-v2",
+      "path": "jobs/pose04-f00154-v2.json",
+      "status": "generated"
+    },
+    {
+      "id": "pose05-f00162-v2",
+      "path": "jobs/pose05-f00162-v2.json",
+      "status": "generated"
+    },
+    {
+      "id": "profile-f01173-v1",
+      "path": "jobs/profile-f01173-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "cheeks-closed-f01408-v1",
+      "path": "jobs/cheeks-closed-f01408-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "cheeks-open-f03555-v1",
+      "path": "jobs/cheeks-open-f03555-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "face-covered-f03748-v1",
+      "path": "jobs/face-covered-f03748-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "crying-f05573-v1",
+      "path": "jobs/crying-f05573-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "sleeping-head-f02493-v1",
+      "path": "jobs/sleeping-head-f02493-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "bed-sitting-f04544-v1",
+      "path": "jobs/bed-sitting-f04544-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "head-down-f04712-v1",
+      "path": "jobs/head-down-f04712-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "flower-hands-f04760-v1",
+      "path": "jobs/flower-hands-f04760-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "clock-hand-f00120-v1",
+      "path": "jobs/clock-hand-f00120-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "hug-open-f05784-v1",
+      "path": "jobs/hug-open-f05784-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "hug-closed-f06039-v1",
+      "path": "jobs/hug-closed-f06039-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "cheeks-rest-f01632-v1",
+      "path": "jobs/cheeks-rest-f01632-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "upside-cry-upright-f05304-v1",
+      "path": "jobs/upside-cry-upright-f05304-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "upside-cry-upright-f05304-v2",
+      "path": "jobs/upside-cry-upright-f05304-v2.json",
+      "status": "generated"
+    },
+    {
+      "id": "cheeks-mouth-o-f01504-v1",
+      "path": "jobs/cheeks-mouth-o-f01504-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "cheeks-mouth-tiny-f01496-v1",
+      "path": "jobs/cheeks-mouth-tiny-f01496-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "cheeks-mouth-teeth-f01432-v1",
+      "path": "jobs/cheeks-mouth-teeth-f01432-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "hug-closed-alice-f06039-v1",
+      "path": "jobs/hug-closed-alice-f06039-v1.json",
+      "status": "generated"
+    },
+    {
+      "id": "hug-open-alice-f05784-v1",
+      "path": "jobs/hug-open-alice-f05784-v1.json",
+      "status": "generated"
+    }
+  ],
+  "draft_review": {
+    "version": "ALICE_v4",
+    "generated_files": 30,
+    "used_cels": 24,
+    "rejected_superseded": 4,
+    "artistic_acceptance": "pending",
+    "actual_speed_viewing": "not_performed",
+    "source_exposure": "analysis/source_meta.json",
+    "final_exposure": "analysis/alice-v4-exposures.json",
+    "user_scope": "Fill omitted open-eye hug partner with Alice in [5784,6039). Existing closed-eye Alice and all other v3 video packets retained.",
+    "change_scope_report": "analysis/alice-v4-change-scope.json",
+    "technical_checks": {
+      "alice-v4-technical.json": true,
+      "alice-v4-comparison-technical.json": true,
+      "alice-v4-full-hug-preview-technical.json": true
+    },
+    "technical_status": "passed",
+    "static_review": "generated cel, aligned composite, encoded replacement boundaries, main scene and mouth contact sheets",
+    "historical_partner_cels": 2
+  }
+}

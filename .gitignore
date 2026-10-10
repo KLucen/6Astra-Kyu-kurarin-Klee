@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+skill-publish/
+analysis/skill-review-*/
+source_meta.archive.json

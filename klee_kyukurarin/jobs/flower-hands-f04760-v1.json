@@ -1,0 +1,36 @@
+{
+  "id": "flower-hands-f04760-v1",
+  "source_frame": 4760,
+  "status": "generated",
+  "prompt": "Create a transparent replacement animation cel of ONLY the two cupped hands and their connected forearms, matching image1 EXACTLY in pose, silhouette, scale, location and 16:9 framing. These are young Klee's hands wearing her dark brown-black Blossoming Starlight gloves, from image2. The two open palms cup upward toward viewer; wrists enter from lower right, fingers extend toward upper left, matching source. Preserve all ten-finger anatomy and the source meeting of palms near center. Convert original pink long pajama cuffs to Klee's dark glove cuffs and pale forearms leading into small white puff-sleeve edges cropped at lower/right borders. The small pink flower and bow hairpins in original hands are PROPS that we will overlay from original footage: DO NOT draw any flowers, hairpins, bows or held objects in this output. Leave continuous dark glove palm surfaces beneath that location. No head, no body, no hat. Simple flat brown-grey line drawing and flat colors consistent with original PV, no lighting or texture. Transparent background, no text. Preserve the original diagonal hand pose, not two symmetrical frontal palms.",
+  "references": [
+    {
+      "path": "refs/source-f04760.png",
+      "role": "exact_hand_pose_and_composition"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "glove_and_sleeve_identity_only"
+    }
+  ],
+  "output": {
+    "path": "generated/flower-hands-f04760-v1.png",
+    "role": "generated_candidate",
+    "job": "flower-hands-f04760-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-ba638da3-91b6-4165-b86a-3d11051adb3f.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "7e3eb57f89bc932292d5bec040676ae2af8a259c44a3bb39b1f71c042c290e7c",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      4760,
+      4984
+    ]
+  ]
+}

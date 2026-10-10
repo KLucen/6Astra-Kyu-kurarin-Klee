@@ -1,0 +1,50 @@
+{
+  "new_to_original_cel": [
+    [
+      1.1387036002223456,
+      -0.006368499569466373,
+      -129.6154905504199
+    ],
+    [
+      0.006368499569466373,
+      1.1387036002223456,
+      -124.3945982054582
+    ]
+  ],
+  "new_open_to_previous_closed_alice": {
+    "affine": [
+      [
+        0.999750342795705,
+        3.363730725923596e-05,
+        0.05828035806812034
+      ],
+      [
+        -3.363730725923596e-05,
+        0.999750342795705,
+        0.08279084744582359
+      ]
+    ],
+    "matches": 765,
+    "inliers": 692,
+    "median_error": 0.44550536456945616
+  },
+  "original_closed_to_original_open": {
+    "affine": [
+      [
+        1.0002963161475076,
+        2.5751763636798484e-05,
+        -0.3474833017635822
+      ],
+      [
+        -2.5751763636798484e-05,
+        1.0002963161475076,
+        -0.48364006150745914
+      ]
+    ],
+    "matches": 475,
+    "inliers": 428,
+    "median_error": 0.5036574000906936
+  },
+  "closed_alice_registration": "analysis/alice-cel-registration.json",
+  "basis": "Chain unchanged Alice features to prior approved closed cel; align original open/closed shared costume features."
+}

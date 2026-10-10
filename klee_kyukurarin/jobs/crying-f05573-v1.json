@@ -1,0 +1,36 @@
+{
+  "id": "crying-f05573-v1",
+  "source_frame": 5573,
+  "status": "generated",
+  "prompt": "Create a transparent character replacement cel in the EXACT 16:9 framing of image 1. Image 1 dictates character position, scale, pose and expression; image 2 supplies Klee Blossoming Starlight identity/colors and drawing consistency only. Replace the crying original girl with young Klee: pale blond short twin tails, elf ears, red witch hat cream underside, red bow/clover, dark cape, white puff sleeves, dark gloves. VERY IMPORTANT composition: huge close-up at the FAR LEFT. Half of the screen-left face/hand is CUT OFF by the LEFT canvas border. Her visible head runs from x0 to about x720 in a 1920x1080 canvas; torso exits BOTTOM. The right two-thirds of canvas is completely transparent. Head tilted down and left. Both hands rubbing near eyes; one gloved hand cropped left, the other glove curled beside the visible eye at source x510 y600. Eyes clenched shut with small tears, strained open-mouth smile as in image1, not a cheerful wave. Preserve exact arm directions and source face proportions, not the centered pose of image2. Hat follows head and may leave top/left edge naturally. Simple slightly imperfect thin brown outlines, flat opaque pastel colors, minimal highlights. No background, writing, frame, or other figures.",
+  "references": [
+    {
+      "path": "refs/source-f05573.png",
+      "role": "precise_pose_expression_composition"
+    },
+    {
+      "path": "generated/cheeks-closed-f01408-v1.png",
+      "role": "character_identity_and_style_only"
+    }
+  ],
+  "output": {
+    "path": "generated/crying-f05573-v1.png",
+    "role": "generated_candidate",
+    "job": "crying-f05573-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-ab9980c6-c90f-44bb-b4fd-c40e77051deb.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "5fd936eb7745a6795901686776d63a0eb5c21d2bac1a033ab6f987f38e396e82",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      5560,
+      5768
+    ]
+  ]
+}

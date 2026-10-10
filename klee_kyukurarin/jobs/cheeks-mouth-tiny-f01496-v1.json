@@ -1,0 +1,32 @@
+{
+  "id": "cheeks-mouth-tiny-f01496-v1",
+  "source_frame": 1496,
+  "status": "generated",
+  "prompt": "Precise mouth-only edit of this transparent animation cel. Change Klee's current wide open mouth into a VERY TINY pursed 'u' mouth: a little round/oval hole about one fifth the width and one fifth the height of the current mouth, flat soft pink interior, thin brown contour, no teeth. Keep it at the same center. Both eyes remain fully closed. Every other part of the image remains exactly unchanged: face, cheeks, hands, body, hat, hair, outlines, colors, pose, scale, position and transparency. No other modifications. One lip-sync cel.",
+  "references": [
+    {
+      "path": "generated/cheeks-closed-f01408-v1.png",
+      "role": "stable_cel_mouth_only_edit"
+    }
+  ],
+  "output": {
+    "path": "generated/cheeks-mouth-tiny-f01496-v1.png",
+    "role": "generated_candidate",
+    "job": "cheeks-mouth-tiny-f01496-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-c4f6ea5d-dfe7-4d63-9d80-f5a2b04cb6c4.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "56ced4a62048b2e6ae5b4abe6563a332436f27c22a15565169e70c502bd1aac0",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      1496,
+      1502
+    ]
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "pose06-f00170-v1",
+  "source_frame": 170,
+  "status": "generated",
+  "prompt": "Use case: illustration-story. Transparent animation cel, original widescreen canvas 1920x1080. Replace ONLY the frontmost rightmost girl in image1 with Klee in Blossoming Starlight. Image2 is ONLY simplified outfit/identity reference. One child elf girl, blonde twin tails, red eyes, red pointed witch hat with cream lining and red bow/clover, dark shoulder cape, white puff sleeves, dark gloves, red dress with a white apron center and simplified cream flower hem, brown backpack and boots. Source exact pose: SCREEN-LEFT ARM RAISED VERY HIGH, open spread hand around (790,70), elbow around (850,240), reaching diagonally above the head. SCREEN-RIGHT ARM extended down and right, hand around (1230,550). Eyes fully wide open, mouth a large startled open oval. Face centered (1000,220). One straight leg angles DOWN-RIGHT to standing boot (1100,960); the OTHER leg bends at the knee to the right, foot lifted beside skirt at (1240,660). The standing boot is to the RIGHT of the body, not left. Match original pose, hand orientation and source location. Hat occupies space around head without hiding the raised hand, hat tip can exit top naturally. Draw only this person, do not include any limbs or people from behind her. Simple grey-brown thin hand-drawn outlines and FLAT opaque colors, minimal detail, no shading/texture/gradient. Entire rest of frame transparent, no text, no ground shadow.",
+  "references": [
+    {
+      "path": "analysis/candidates/f00170.png",
+      "role": "frontmost_raised_arm_pose"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "cropped_identity"
+    }
+  ],
+  "output": {
+    "path": "generated/pose06-f00170-v1.png",
+    "role": "generated_candidate",
+    "job": "pose06-f00170-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-7d1e8499-93fa-426e-a306-73addc55baad.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "53ceb403894dad02fdf2a99026cb776d5b9247daf2f197a306a625cb31896790",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      168,
+      188
+    ],
+    [
+      232,
+      252
+    ],
+    [
+      296,
+      316
+    ],
+    [
+      360,
+      380
+    ],
+    [
+      424,
+      444
+    ],
+    [
+      488,
+      508
+    ],
+    [
+      552,
+      572
+    ],
+    [
+      616,
+      636
+    ],
+    [
+      680,
+      700
+    ],
+    [
+      744,
+      764
+    ],
+    [
+      808,
+      828
+    ],
+    [
+      872,
+      892
+    ],
+    [
+      936,
+      956
+    ],
+    [
+      1000,
+      1020
+    ],
+    [
+      1064,
+      1084
+    ],
+    [
+      1128,
+      1145
+    ],
+    [
+      2952,
+      2976
+    ],
+    [
+      3016,
+      3040
+    ],
+    [
+      3080,
+      3104
+    ],
+    [
+      3144,
+      3168
+    ],
+    [
+      3208,
+      3232
+    ],
+    [
+      3272,
+      3296
+    ],
+    [
+      3336,
+      3360
+    ],
+    [
+      3400,
+      3424
+    ]
+  ]
+}

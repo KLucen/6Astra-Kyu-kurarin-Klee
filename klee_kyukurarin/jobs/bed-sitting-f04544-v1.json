@@ -1,0 +1,36 @@
+{
+  "id": "bed-sitting-f04544-v1",
+  "source_frame": 4544,
+  "status": "generated",
+  "prompt": "Use image1 as exact pose, scale and location reference; image2 supplies Klee Blossoming Starlight identity ONLY. Create just the young Klee character as a transparent 16:9 animation cel matching the original 1920x1080 composition. Small upper-body figure at right, original head around (1200,380), shoulders (1180,490), rightmost torso edge x1370, hand touching blanket at (1090,725). Klee has just sat up in bed, bent forward, head bowed, blond bangs covering the eyes; small neutral mouth, looking down into her lap. One forearm extends diagonally DOWN-LEFT from shoulder to visible dark-gloved hand at source (1090,725) resting on blanket. The other forearm rests farther back at source (1130,570). Exactly two arms, same pose as source. Show a compact red witch hat with cream underside, red bow/clover; blond twin tails, elf ears, dark cape, white puff sleeves and dark gloves. Lower torso/legs hidden by original blanket: do not draw legs. Follow the visible torso shape/blanket boundary precisely. CRITICAL: no bed, pillow, blanket, background or text in output, they will stay original in composite. Draw only the visible seated character in its original location, not centered or enlarged. Thin imperfect brown line, plain flat colors, restrained costume detail matching source PV hand-drawn simplicity.",
+  "references": [
+    {
+      "path": "refs/source-f04544.png",
+      "role": "exact_sitting_pose_and_occlusion"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "costume_identity_only"
+    }
+  ],
+  "output": {
+    "path": "generated/bed-sitting-f04544-v1.png",
+    "role": "generated_candidate",
+    "job": "bed-sitting-f04544-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-efcf106e-efc1-4b4a-a706-dd488aadace0.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "578df84dde175a99f677890d4acc2accd6c25dadcf6d23c18d28b38afffd002d",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      4504,
+      4712
+    ]
+  ]
+}

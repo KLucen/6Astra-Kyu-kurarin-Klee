@@ -1,0 +1,31 @@
+{
+  "id": "pose02-f00138-v1",
+  "source_frame": 138,
+  "status": "generated",
+  "prompt": "Use case: illustration-story. 绘制一张用于原PV人物替换的透明动画人物层。图1是原PV第138帧，当前只画最前面、画面右侧的那一个人；图1后面拿吐司的另一个人不要画。图2是已制作的可莉风格身份锚点，只参考角色造型和扁平线条，不参考姿势。把图1最前面的角色变成可莉「琪花星烛」：奶金双短辫、尖耳、红眼、红色尖顶魔女帽、奶白帽沿衬里、红帽蝴蝶结及简化四叶花饰、深色小披肩、白泡泡袖、深色手套、红白花瓣边连衣裙、棕色背包、棕色靴。原姿势：正脸微偏画面左，眼睛大睁嘴闭；画面右侧的手在右脸旁抬起掌心向外、手指张开，画面左侧手举起一部竖直的深色手机在胸侧；画面左侧腿向后朝右弯起，画面右侧腿直立。仔细参照原图，不混入后面人物的肢体。单独完整的人物，保留图1前面角色的身体关节位置、头位置、脚位置以及原1920x1080画布坐标，帽尖自然从上边缘出画也可以。人物轮廓应只占原图对应位置，不能居中放大。原PV那样简单的细灰褐线稿、纯平色块、无阴影无纹理、少量标志性饰物。只有这一个人物和她持有的手机，背景全透明，无文字、无其他角色、无地面阴影。输出16:9透明PNG。",
+  "references": [
+    {
+      "path": "analysis/candidates/f00138.png",
+      "role": "frontmost_pose"
+    },
+    {
+      "path": "generated/anchor-f01027-v1.png",
+      "role": "identity_style_only"
+    }
+  ],
+  "output": {
+    "path": "generated/pose02-f00138-v1.png",
+    "role": "generated_candidate",
+    "job": "pose02-f00138-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-e24d3d8b-87aa-4527-a810-5f207122b396.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "43dc531d5849732e6f93613dc20458cbf74bc5b69660ea3c57e75ac24f3759d8",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "rejected_superseded",
+  "used_intervals": []
+}

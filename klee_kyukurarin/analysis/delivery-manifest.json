@@ -1,0 +1,28 @@
+{
+  "version": "ALICE_v4",
+  "date": "2026-10-09",
+  "files": [
+    {
+      "path": "C:\\Users\\KLucen\\Desktop\\kle\\klee_kyukurarin\\output\\Klee_Kyu-kurarin_ALICE_v4.mp4",
+      "bytes": 69694395,
+      "sha256": "9449131336ea697733e672e973dc4bf23348a1e682b837cc415a5b996e05f961"
+    },
+    {
+      "path": "C:\\Users\\KLucen\\Desktop\\kle\\klee_kyukurarin\\output\\Klee_Kyu-kurarin_ALICE_v4_COMPARE.mp4",
+      "bytes": 98116222,
+      "sha256": "60639b7988bd38ca30a002c028032047a2e8a53a25bfdbd2e01ec905bce66ea0"
+    },
+    {
+      "path": "C:\\Users\\KLucen\\Desktop\\kle\\klee_kyukurarin\\output\\Klee_Alice_Full_Hug_v4_Preview.mp4",
+      "bytes": 7804688,
+      "sha256": "371f5fc8ad26a26dff4a1f034cc0244ad2f8fcb32d3a0b0d713d45024a91fcff"
+    }
+  ],
+  "checks": {
+    "alice-v4-technical.json": true,
+    "alice-v4-comparison-technical.json": true,
+    "alice-v4-full-hug-preview-technical.json": true
+  },
+  "scope": "Only frames 5784 through 6038 changed from v3; all 6083 other video packet payloads are identical. Original AAC retained.",
+  "artistic_status": "draft_static_reviewed_not_viewed_at_original_speed"
+}

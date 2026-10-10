@@ -1,0 +1,40 @@
+{
+  "id": "cheeks-open-f03555-v1",
+  "source_frame": 3555,
+  "status": "generated",
+  "prompt": "Edit image 1, a transparent Klee animation cel. Image 2 is the original PV expression reference. Keep image 1 pixel composition, head tilt, hat, hair, ears, cheeks, both gloved hands, forearms, body, backpack and outlines unchanged. Change only her expression: both eyes now half open, softly tired and slightly uneasy, red irises, looking at viewer; mouth a tiny closed uncertain smile. Match the expression in source image 2, but retain Klee identity and image 1 geometry. No new objects, no text, no background. Transparent canvas, same dimensions and crop. Do not restyle, move or resize the character.",
+  "references": [
+    {
+      "path": "generated/cheeks-closed-f01408-v1.png",
+      "role": "stable_character_cel_to_edit"
+    },
+    {
+      "path": "refs/source-f03555.png",
+      "role": "expression_only"
+    }
+  ],
+  "output": {
+    "path": "generated/cheeks-open-f03555-v1.png",
+    "role": "generated_candidate",
+    "job": "cheeks-open-f03555-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-5391d381-2375-46b6-93d1-02db1912a086.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "4b614c817f7d5523848d615afdfcbab39c002d32c4d17ff619cf6c598c7523e1",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      1664,
+      1880
+    ],
+    [
+      3544,
+      3736
+    ]
+  ]
+}

@@ -1,0 +1,1320 @@
+[
+  {
+    "frame": 152,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 160,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 168,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 176,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 186,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 216,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 224,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 232,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 240,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 280,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 288,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 296,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 298,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 299,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 303,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 304,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 344,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 352,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 360,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 368,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 379,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 408,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 416,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 424,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 424,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 432,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 472,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 480,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 486,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 488,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 489,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 496,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 506,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 507,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 536,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 544,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 552,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 560,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 600,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 608,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 612,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 616,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 624,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 664,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 672,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 680,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 688,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 728,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 736,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 744,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 746,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 752,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 792,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 800,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 806,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 808,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 816,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 818,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 823,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 856,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 864,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 872,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 880,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 888,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 920,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 928,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 936,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 944,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 984,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 992,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 1000,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 1008,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 1009,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1048,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 1056,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 1064,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 1065,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1069,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1071,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1072,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 1074,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1112,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 1120,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 1128,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 1129,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1136,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 1145,
+    "pose": 1,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1145,
+    "pose": 2,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1145,
+    "pose": 3,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1145,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1145,
+    "pose": 5,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1145,
+    "pose": 6,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1145,
+    "pose": 7,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1146,
+    "pose": 1,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1146,
+    "pose": 2,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1146,
+    "pose": 3,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1146,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1146,
+    "pose": 5,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1146,
+    "pose": 6,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1146,
+    "pose": 7,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1147,
+    "pose": 1,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1147,
+    "pose": 2,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1147,
+    "pose": 3,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1147,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1147,
+    "pose": 5,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1147,
+    "pose": 6,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 1147,
+    "pose": 7,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 2912,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 2913,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 2914,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 2915,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 2916,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 2920,
+    "pose": 2,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 2928,
+    "pose": 3,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 2936,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 2944,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 2950,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 2952,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 2952,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 2953,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 2954,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 2956,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 2960,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 2966,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 2970,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 2971,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 2976,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 2977,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 2978,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 2979,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 2980,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 2984,
+    "pose": 2,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 2987,
+    "pose": 2,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 2992,
+    "pose": 3,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3000,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3008,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3015,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3016,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3019,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3021,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3024,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3031,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3034,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3040,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3041,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3042,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3043,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3044,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3048,
+    "pose": 2,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3056,
+    "pose": 3,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3064,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3072,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3078,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3079,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3080,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3082,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3088,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3093,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3093,
+    "pose": 6,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3095,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3098,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3099,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3104,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3105,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3106,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3107,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3108,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3112,
+    "pose": 2,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3112,
+    "pose": 2,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3113,
+    "pose": 2,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3115,
+    "pose": 2,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3120,
+    "pose": 3,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3128,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3136,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3141,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3144,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3151,
+    "pose": 5,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3152,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3155,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3156,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3168,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3169,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3170,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3171,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3172,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3176,
+    "pose": 2,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3184,
+    "pose": 3,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3192,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3200,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3208,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3210,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3214,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3216,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3218,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3219,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3222,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3232,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3233,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3234,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3235,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3236,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3240,
+    "pose": 2,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3248,
+    "pose": 3,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3256,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3264,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3264,
+    "pose": 5,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3272,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3274,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3280,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3283,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3286,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3289,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3296,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3297,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3298,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3299,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3300,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3304,
+    "pose": 2,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3305,
+    "pose": 2,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3312,
+    "pose": 3,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3320,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3328,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3336,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3336,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3343,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3344,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3344,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3345,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3347,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3349,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3353,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3355,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3360,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3361,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3362,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3363,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3364,
+    "pose": 1,
+    "status": "body_missing"
+  },
+  {
+    "frame": 3368,
+    "pose": 2,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3376,
+    "pose": 3,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3384,
+    "pose": 4,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3392,
+    "pose": 5,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3398,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  },
+  {
+    "frame": 3400,
+    "pose": 6,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3408,
+    "pose": 7,
+    "status": "entry_pattern_needs_pixel_review"
+  },
+  {
+    "frame": 3410,
+    "pose": 4,
+    "status": "same_exposure_source_registration_donor",
+    "donor": null
+  }
+]

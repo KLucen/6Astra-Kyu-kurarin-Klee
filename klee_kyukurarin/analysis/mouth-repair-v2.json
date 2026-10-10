@@ -1,0 +1,39 @@
+{
+  "baseline": "C:\\Users\\KLucen\\Desktop\\kle\\klee_kyukurarin\\output\\Klee_Kyu-kurarin_DRAFT_v1-silent.mp4",
+  "output": "C:\\Users\\KLucen\\Desktop\\kle\\klee_kyukurarin\\output\\Klee_Kyu-kurarin_DRAFT_v2.mp4",
+  "patched_intervals": [
+    [
+      1145,
+      1148
+    ],
+    [
+      1408,
+      1664
+    ],
+    [
+      2912,
+      3424
+    ],
+    [
+      3488,
+      3544
+    ]
+  ],
+  "reencoded_gop_intervals": [
+    [
+      1088,
+      1152
+    ],
+    [
+      1400,
+      1664
+    ],
+    [
+      2900,
+      3544
+    ]
+  ],
+  "unchanged_video_packet_payloads_outside_repair_gops": true,
+  "elapsed_seconds": 264.4,
+  "artistic_review": "static_only_pending_original_speed"
+}

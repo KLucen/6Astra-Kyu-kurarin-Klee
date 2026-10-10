@@ -1,0 +1,36 @@
+{
+  "id": "hug-open-f05784-v1",
+  "source_frame": 5784,
+  "status": "generated",
+  "prompt": "Create a single transparent animation cel containing the TWO embracing figures from image1, replacing both with young Klee Blossoming Starlight, while precisely preserving the SOURCE hugging pose, overlap, placement, scale and 16:9 crop. Image2 is Klee outfit/style reference only. Main Klee is on SCREEN RIGHT, facing viewer over the left figure's shoulder, face at source (1030,205), huge wide startled RED eyes with tiny pupils, trembling little mouth and small tears, matching source emotion. Blonde twin tails, elf ears, compact red witch hat with cream underside, red bow/clover, dark cape, white puff sleeves, dark gloves, red scalloped skirt, brown backpack. Her two arms wrap around the other figure: one visible hand around (850,390), another around (915,515), exactly as source. The SCREEN LEFT foreground partner faces AWAY, embraces Klee at shoulders, and remains a MONOCHROME FLAT PINK silhouette with only thin outline details, as in source. Give that pink silhouette Klee's hat, short twin tails and dress contour so it also reads as Klee; do NOT color the left figure with blonde/red/white. Preserve the interlocking hug, two bodies total, four arms total, no extra hands. Both figures cut off at BOTTOM as in source; top of the left figure's hat cut off at TOP. Main Klee's head must remain clearly visible over shoulder, don't obstruct her expression with hats. Simple thin imperfect brown-grey lines and plain flat muted colors, minimal detail, no lighting. No writing, no pink background, no other props, generous empty transparent areas left and right of the pair.",
+  "references": [
+    {
+      "path": "refs/source-f05784.png",
+      "role": "exact_two_person_hug_and_expression"
+    },
+    {
+      "path": "refs/klee-flat-costume-reference.png",
+      "role": "costume_identity_only"
+    }
+  ],
+  "output": {
+    "path": "generated/hug-open-f05784-v1.png",
+    "role": "generated_candidate",
+    "job": "hug-open-f05784-v1",
+    "original": "C:\\Users\\KLucen\\.codex\\generated_images\\01a11bf6-c022-7263-a449-3c992ecd9fe7\\exec-7f124f3a-9715-4401-86e6-5895f7bd0ec4.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGBA",
+    "sha256": "90ca5e6a96e0f18291c5df7c8c05f1712348c15c7579b9f8ee43f5b919644f82",
+    "status": "generated_not_reviewed"
+  },
+  "selection_status": "used_in_draft_static_review_only",
+  "used_intervals": [
+    [
+      5784,
+      6039
+    ]
+  ]
+}
